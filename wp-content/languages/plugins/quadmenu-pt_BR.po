@@ -1,0 +1,3359 @@
+# Translation of Plugins - WordPress Mega Menu &#8211; QuadMenu - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - WordPress Mega Menu &#8211; QuadMenu - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-10 05:27:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - WordPress Mega Menu &#8211; QuadMenu - Stable (latest release)\n"
+
+#: redux/ReduxCore/inc/class.redux_helpers.php:657
+msgid "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
+msgstr "<code>%s</code> versão <strong style=\"color:red\">%s</strong> esta desatualizado. A versão do core é %s"
+
+#: redux/ReduxCore/inc/extensions/customizer/extension_customizer.php:750
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr "Suas opções atuais serão substituídas pelos valores desta predefinição. Você gostaria de prosseguir?"
+
+#. translators: %s is the site/panel title in the Customizer
+#: redux/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114
+#: redux/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+msgid "You are customizing %s"
+msgstr "Você está personalizando %s"
+
+#: redux/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:138
+#: redux/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr "Voltar"
+
+#: redux/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr "Ajuda"
+
+#: redux/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr "Pressione return ou enter para abrir este painel"
+
+#: redux/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr "Pressione return ou enter para expandir"
+
+#: redux/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr "Aperte return ou enter para abrir"
+
+#: redux/ReduxCore/inc/extensions/import_export/extension_import_export.php:121
+msgid "Import / Export"
+msgstr "Importar / Exportar"
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:110
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr "Informe seu arquivo de backup abaixo e clique em Importar para restaurar as opções."
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:117
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr "Insira o URL para outras opções locais e clique em importar para carregar as opções desse site."
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:122
+msgid "Import"
+msgstr "Importar"
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:122
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr "ATENÇÃO! Isso irá substituir todas as opções salvas. Proceda com cuidado!"
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Export Options"
+msgstr "Exportar opções"
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:130
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr "Aqui você pode copiar/baixar suas opções atuais. Guarde esse arquivo em um local seguro para utilizá-lo como backup em caso de erro ou para restaurar suas opções nesse site (ou em qualquer outro site)."
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:138
+msgid "Copy Data"
+msgstr "Copiar dados"
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:139
+msgid "Download Data File"
+msgstr "Baixar arquivo de dados"
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:140
+msgid "Copy Export URL"
+msgstr "Copiar URL de exportação"
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:97
+msgid "Import Options"
+msgstr "Opções de importação"
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:101
+msgid "Import from File"
+msgstr "Importar do arquivo"
+
+#: redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from URL"
+msgstr "Importar de um URL"
+
+#: redux/ReduxCore/inc/extensions/options_object/extension_options_object.php:83
+#: redux/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr "Opções de objeto"
+
+#: redux/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr "Mostrar objeto no console de objetos do Javascript"
+
+#: redux/ReduxCore/inc/tracking.php:154
+msgid "Did you know we have extensions, which greatly enhance the features of Redux?  Visit our %1$s to learn more!"
+msgstr "Você sabia que nós temos extensões que aprimoram os recursos do Redux? Visite nosso %1$s para saber mais!"
+
+#: redux/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr "diretório de extensões"
+
+#: redux/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr "Gosta do Redux?"
+
+#: redux/ReduxCore/inc/tracking.php:155
+msgid "If so, please %1$s and consider making a %2$s to keep development of Redux moving forward."
+msgstr "Se assim for, %1$s e considere fazer uma %2$s para manter o desenvolvimento de Redux avançando."
+
+#: redux/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr "deixe-nos um comentário favorável no WordPress.org"
+
+#: redux/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr "doação"
+
+#: redux/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: redux/ReduxCore/inc/tracking.php:156
+msgid "If you'd like to keep up to with all things Redux, please subscribe to our newsletter"
+msgstr "Se você gostaria de manter-se atualizado sobre o Redux, assine o nosso boletim informativo"
+
+#: redux/ReduxCore/inc/tracking.php:159
+msgid "Email Address"
+msgstr "Endereço de e-mail"
+
+#: redux/ReduxCore/inc/tracking.php:163
+msgid "Subscribe"
+msgstr "Inscrever-se"
+
+#: redux/ReduxCore/inc/class.redux_cdn.php:115
+msgid "The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not installed or not activated and thus, some controls may not render properly.  Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr "O <a href=\"%s\">Plugin de suporte do fornecedor</a> (ou extensão) não está instalado ou não está ativado e, portanto, alguns controles podem não funcionar corretamente. Certifique-se de que ele está instalado e <a href=\"%s\">ativado</a>"
+
+#: redux/ReduxCore/inc/class.redux_cdn.php:74
+msgid "Please wait a few minutes, then try refreshing the page. Unable to load some remotely hosted scripts."
+msgstr "Por favor aguarde alguns minutos, em seguida tente atualizar a página. Não foi possível carregar alguns scripts hospedados remotamente."
+
+#: redux/ReduxCore/inc/class.redux_cdn.php:76
+msgid "If you are developing offline, please download and install the <a href=\"%s\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the our CDN and avoid this warning"
+msgstr "Se você estiver desenvolvendo off-line, faça o download e instale o plugin/extensão <a href=\"%s\" target=\"_blank\">Suporte Redux Vendor</a> para ignorar a nossa CDN e evitar esse aviso"
+
+#: redux/ReduxCore/inc/class.redux_cdn.php:79
+msgid "Redux Framework Warning"
+msgstr "Aviso Redux Framework"
+
+#: redux/ReduxCore/inc/class.redux_cdn.php:79
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr "%s CDN indisponíveis. Alguns controles podem não processar corretamente."
+
+#: redux/ReduxCore/inc/class.redux_filesystem.php:50
+#: redux/ReduxCore/inc/class.redux_filesystem.php:289
+msgid "File Permission Issues"
+msgstr "Problemas de permissão de arquivo"
+
+#: redux/ReduxCore/inc/class.redux_filesystem.php:50
+#: redux/ReduxCore/inc/class.redux_filesystem.php:289
+msgid "We were unable to modify required files. Please ensure that <code>%1s</code> has the proper read-write permissions, or modify your wp-config.php file to contain your FTP login credentials as <a href=\"%2s\" target=\"_blank\">outlined here</a>."
+msgstr "Não fomos capazes de modificar os arquivos necessários. Certifique-se de que <code>%1s</code> possui as devidas permissões de leitura e escrita, ou modifique seu arquivo wp-config.php para conter suas credenciais de login de FTP como  <a href=\"%2s\" target=\"_blank\">aqui indicado</a>."
+
+#: redux/ReduxCore/inc/extensions/customizer/extension_customizer.php:748
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "Você tem mudanças não salvas. Gostaria de salvá-las agora?"
+
+#: redux/ReduxCore/inc/extensions/customizer/extension_customizer.php:749
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr "Você tem certeza? Ao redefinir, todas as modificações serão perdidas."
+
+#: vendor_packages/wp-notice-plugin-promote.php:55
+msgid "Report a bug"
+msgstr "Informar um erro"
+
+#: vendor_packages/wp-notice-plugin-promote.php:42
+msgid "Hello! Thank you for choosing the %s plugin!"
+msgstr "Olá! Agradecemos por escolher o plugin %s!"
+
+#: vendor_packages/wp-notice-plugin-promote.php:50
+msgid "Yes, of course!"
+msgstr "Sim, claro!"
+
+#: lib/panel/class-welcome.php:25
+msgid "Welcome"
+msgstr "Bem-vindo(a)"
+
+#: lib/integrations/divi/modules/QuadMenu/QuadMenu.php:75
+msgid "Select a menu that should be used in the module"
+msgstr "Selecione um menu que deva ser usado no módulo"
+
+#: lib/integrations/divi/modules/QuadMenu/QuadMenu.php:75
+msgid "Click here to create new menu"
+msgstr "Clique aqui para criar um novo menu"
+
+#: lib/panel/pages/welcome.php:49
+msgid "Join Community"
+msgstr "Participe da comunidade"
+
+#: lib/class-options.php:837
+msgid "Image"
+msgstr "Imagem"
+
+#: lib/integrations/beaver/class-module.php:16
+#: lib/integrations/beaver/module.php:12
+msgid "Renders a WordPress menu."
+msgstr "Produz um menu do WordPress."
+
+#: lib/integrations/beaver/class-module.php:17
+#: lib/integrations/beaver/module.php:13
+msgid "Actions"
+msgstr "Ações"
+
+#: lib/integrations/beaver/class-module.php:48
+#: lib/integrations/beaver/module.php:43
+msgid "Select a WordPress menu that you created in the admin under Appearance > Menus."
+msgstr "Escolha um menu do WordPress que você criou no painel em Aparência > Menus."
+
+#: lib/integrations/beaver/class-module.php:65
+#: lib/integrations/beaver/module.php:60
+msgid "No Menus Found"
+msgstr "Nenhum menu foi encontrado"
+
+#: lib/integrations/beaver/class-module.php:183
+#: lib/integrations/beaver/class-module.php:195
+#: lib/integrations/beaver/class-module.php:219
+#: lib/integrations/beaver/class-module.php:229
+#: lib/integrations/beaver/class-module.php:296
+#: lib/integrations/beaver/module.php:172
+#: lib/integrations/beaver/module.php:184
+#: lib/integrations/beaver/module.php:208
+#: lib/integrations/beaver/module.php:218
+#: lib/integrations/beaver/module.php:285
+#: lib/integrations/elementor/class-module.php:172
+#: lib/integrations/elementor/class-module.php:187
+#: lib/integrations/elementor/class-module.php:215
+#: lib/integrations/elementor/class-module.php:228
+#: lib/integrations/elementor/class-module.php:302
+msgid "Yes"
+msgstr "﻿Sim"
+
+#: lib/integrations/beaver/class-module.php:184
+#: lib/integrations/beaver/class-module.php:196
+#: lib/integrations/beaver/class-module.php:220
+#: lib/integrations/beaver/class-module.php:230
+#: lib/integrations/beaver/class-module.php:297
+#: lib/integrations/beaver/module.php:173
+#: lib/integrations/beaver/module.php:185
+#: lib/integrations/beaver/module.php:209
+#: lib/integrations/beaver/module.php:219
+#: lib/integrations/beaver/module.php:286
+#: lib/integrations/elementor/class-module.php:173
+#: lib/integrations/elementor/class-module.php:188
+#: lib/integrations/elementor/class-module.php:216
+#: lib/integrations/elementor/class-module.php:229
+#: lib/integrations/elementor/class-module.php:303
+msgid "No"
+msgstr "Não"
+
+#: lib/class-options.php:585 lib/integrations/beaver/class-module.php:217
+#: lib/integrations/beaver/module.php:206
+#: lib/integrations/elementor/class-module.php:213
+msgid "Lazyload"
+msgstr "Carregamento lento"
+
+#: lib/class-options.php:2109
+msgid "Right to left"
+msgstr "Direita para a esquerda"
+
+#: lib/class-options.php:2110
+msgid "Left to right"
+msgstr "Esquerda para a direita"
+
+#: lib/class-options.php:2112
+msgid "Flip"
+msgstr "Virar"
+
+#: redux/redux/animation/field_animation.php:107
+#: redux/redux/animation/field_animation.php:109
+msgid "speed"
+msgstr "velocidade"
+
+#: redux/redux/animation/field_animation.php:69
+#: redux/redux/animation/field_animation.php:71
+msgid "options"
+msgstr "opções"
+
+#: redux/redux/animation/field_animation.php:88
+#: redux/redux/animation/field_animation.php:90
+msgid "action"
+msgstr "ação"
+
+#: lib/class-options.php:1948 lib/class-options.php:1980
+#: lib/class-options.php:2012 lib/class-options.php:2044
+#: lib/class-options.php:2076 lib/class-options.php:2137
+#: lib/class-options.php:2169 lib/class-options.php:2201
+#: lib/class-options.php:2233
+msgid "Bounce"
+msgstr "Quicar"
+
+#: lib/class-options.php:1949 lib/class-options.php:1981
+#: lib/class-options.php:2013 lib/class-options.php:2045
+#: lib/class-options.php:2077 lib/class-options.php:2138
+#: lib/class-options.php:2170 lib/class-options.php:2202
+#: lib/class-options.php:2234
+msgid "Pulse"
+msgstr "Pulsar"
+
+#: lib/class-options.php:1951 lib/class-options.php:1983
+#: lib/class-options.php:2015 lib/class-options.php:2047
+#: lib/class-options.php:2079 lib/class-options.php:2140
+#: lib/class-options.php:2172 lib/class-options.php:2204
+#: lib/class-options.php:2236
+msgid "Swing"
+msgstr "Balançar"
+
+#: lib/class-options.php:1953 lib/class-options.php:1985
+#: lib/class-options.php:2017 lib/class-options.php:2049
+#: lib/class-options.php:2081 lib/class-options.php:2142
+#: lib/class-options.php:2174 lib/class-options.php:2206
+#: lib/class-options.php:2238
+msgid "Wobble"
+msgstr "Oscilar"
+
+#: lib/class-options.php:1956 lib/class-options.php:1988
+#: lib/class-options.php:2020 lib/class-options.php:2052
+#: lib/class-options.php:2145 lib/class-options.php:2177
+#: lib/class-options.php:2209 lib/class-options.php:2241
+msgid "Load"
+msgstr "Carregar"
+
+#: lib/class-options.php:1958 lib/class-options.php:1990
+#: lib/class-options.php:2022 lib/class-options.php:2054
+#: lib/class-options.php:2147 lib/class-options.php:2179
+#: lib/class-options.php:2211 lib/class-options.php:2243
+msgid "Loop"
+msgstr "Repetir"
+
+#: lib/class-options.php:222
+msgid "CSS"
+msgstr "CSS"
+
+#: lib/class-configuration.php:333
+msgid "Placeholder"
+msgstr "Espaço reservado"
+
+#: lib/panel/pages/premium.php:46
+msgid "Carousel"
+msgstr "Carrossel"
+
+#: lib/panel/pages/premium.php:66
+msgid "Login"
+msgstr "Login"
+
+#: lib/panel/pages/premium.php:89
+msgid "Personal"
+msgstr "Pessoal"
+
+#: lib/panel/pages/premium.php:93 lib/panel/pages/premium.php:100
+#: lib/panel/pages/premium.php:107
+#: vendor_packages/wp-notice-plugin-promote.php:63
+msgid "Purchase Now"
+msgstr "Compre agora"
+
+#: lib/panel/pages/premium.php:96
+msgid "Agency"
+msgstr "Agência"
+
+#: lib/panel/pages/welcome.php:48
+msgid "Submit ticket"
+msgstr "Enviar chamado"
+
+#: lib/panel/pages/premium.php:32
+msgid "Tabs"
+msgstr "Abas"
+
+#: lib/backend/class-ajax.php:157
+msgid "All %s"
+msgstr "Ver %s"
+
+#: lib/class-options.php:502 lib/integrations/beaver/class-module.php:154
+#: lib/integrations/beaver/module.php:143
+#: lib/integrations/elementor/class-module.php:134
+msgid "Center"
+msgstr "Centro"
+
+#: lib/class-configuration.php:408
+msgid "Excerpt"
+msgstr "Resumo"
+
+#: lib/frontend/walker/class-quadmenu-walker.php:141
+#: lib/frontend/walker/class-quadmenu-walker.php:143
+#: lib/panel/pages/parts/header.php:9 lib/panel/pages/welcome.php:37
+msgid "Demo"
+msgstr "Demonstração"
+
+#: lib/class-options.php:445 lib/class-widget.php:99
+msgid "Embed"
+msgstr "Incorporado"
+
+#: lib/class-configuration.php:289
+msgid "Target"
+msgstr "Alvo"
+
+#: lib/backend/class-settings.php:328
+msgid "Opacity"
+msgstr "Opacidade"
+
+#: lib/panel/class-premium.php:25 lib/panel/pages/premium.php:5
+#: vendor_packages/wp-plugin-table-links.php:13
+msgid "Premium"
+msgstr "Premium"
+
+#: lib/integrations/divi/modules/QuadMenu/QuadMenu.php:21
+#: vendor_packages/wp-plugin-table-links.php:8
+msgid "Settings"
+msgstr "Configurações"
+
+#: lib/panel/pages/premium.php:12
+msgid "Customizer"
+msgstr "Personalizador"
+
+#: lib/class-options.php:1199 lib/class-options.php:1796
+msgid "Scroll"
+msgstr "Rolar"
+
+#: lib/class-options.php:1750
+msgid "Tab"
+msgstr "Aba"
+
+#: redux/redux/rgba/field_rgba.php:62
+msgid "Select"
+msgstr "Selecionar"
+
+#: lib/backend/class-settings.php:361
+msgid "Origin"
+msgstr "Origem"
+
+#: lib/class-options.php:1823
+msgid "Typography"
+msgstr "Tipografia"
+
+#: lib/class-options.php:1917
+msgid "Animations"
+msgstr "Animações"
+
+#: lib/class-options.php:670 lib/integrations/beaver/class-module.php:293
+#: lib/integrations/beaver/module.php:282
+#: lib/integrations/elementor/class-module.php:299
+msgid "Max Height"
+msgstr "Altura máxima"
+
+#: lib/class-configuration.php:509 lib/panel/pages/premium.php:77
+msgid "Social"
+msgstr "Social"
+
+#: lib/frontend/walker/class-quadmenu-walker.php:134
+#: lib/frontend/walker/class-quadmenu-walker.php:136
+#: lib/panel/pages/parts/header.php:10 lib/panel/pages/welcome.php:30
+#: vendor_packages/wp-plugin-table-links.php:23
+msgid "Documentation"
+msgstr "Documentação"
+
+#: lib/class-compiler.php:158 lib/class-icons.php:38 lib/class-themes.php:107
+#: lib/class-themes.php:141
+msgid "Please wait"
+msgstr "Aguarde"
+
+#: lib/class-options.php:185
+msgid "Icons"
+msgstr "Ícones"
+
+#: lib/class-options.php:1325 lib/class-options.php:1425
+msgid "Shadow"
+msgstr "Sombra"
+
+#: lib/class-options.php:1308
+msgid "Mobile"
+msgstr "Dispositivos móveis"
+
+#: lib/class-panel.php:55 lib/integrations/class-vc.php:61
+msgid "Menus"
+msgstr "Menus"
+
+#: lib/integrations/class-vc.php:64
+msgid "Choose a menu."
+msgstr "Escolha um menu."
+
+#: lib/class-configuration.php:206 lib/integrations/class-vc.php:56
+msgid "Content"
+msgstr "Conteúdo"
+
+#: lib/panel/pages/welcome.php:34
+msgid "Open documentation"
+msgstr "Documentação aberta"
+
+#: lib/panel/class-system.php:439 lib/panel/class-welcome.php:439
+msgid "Increasing memory allocated to PHP"
+msgstr "Acrescentando memória alocada para o PHP"
+
+#: templates/layout/alert.php:6
+msgid "Something went wrong"
+msgstr "Algo deu errado"
+
+#. Plugin Name of the plugin
+#: quadmenu.php lib/integrations/beaver/class-module.php:15
+#: lib/integrations/beaver/module.php:11
+#: lib/integrations/divi/modules/QuadMenu/QuadMenu.php:16
+#: lib/integrations/elementor/class-module.php:16
+#: lib/integrations/elementor/class-module.php:39
+msgid "QuadMenu"
+msgstr "QuadMenu"
+
+#: lib/backend/class-ajax.php:464
+msgid "Saving"
+msgstr "Salvando"
+
+#: lib/backend/class-settings.php:209 lib/backend/class-settings.php:234
+msgid "Inherit from smaller"
+msgstr "Herdar do menor"
+
+#: lib/backend/class-settings.php:252
+msgid "Hidden"
+msgstr "Oculto"
+
+#: lib/backend/class-settings.php:332
+msgid "Position"
+msgstr "Posição"
+
+#: lib/backend/class-settings.php:353
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:437
+msgid "Size"
+msgstr "Tamanho"
+
+#: lib/backend/walker/class-nav-menu-columns.php:53
+msgid "Contract"
+msgstr "Contrato"
+
+#: lib/backend/walker/class-nav-menu-columns.php:54
+#: redux/redux/template/header_stickybar.tpl.php:5
+#: redux/ReduxCore/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr "Expandir"
+
+#: lib/backend/class-settings.php:324 lib/backend/class-settings.php:384
+#: lib/backend/walker/class-nav-menu-columns.php:55
+#: lib/backend/walker/class-nav-menu-defaults.php:78
+#: lib/backend/walker/class-nav-menu-widgets.php:205
+msgid "Edit"
+msgstr "Editar"
+
+#: lib/backend/walker/class-nav-menu-mega.php:28
+msgid "Columns"
+msgstr "Colunas"
+
+#: lib/backend/walker/class-nav-menu-widgets.php:268
+#: redux/redux/icons/field_icons.php:53 redux/redux/template/footer.tpl.php:59
+#: redux/redux/template/header_stickybar.tpl.php:13
+msgid "Save"
+msgstr "Salvar"
+
+#: lib/backend/class-ajax.php:132 lib/backend/class-ajax.php:180
+#: lib/backend/walker/class-nav-menu-widgets.php:80
+msgid "Add to Menu"
+msgstr "Adicionar ao menu"
+
+#: lib/backend/class-settings.php:325 lib/backend/class-settings.php:385
+#: lib/backend/walker/class-nav-menu-columns.php:56
+#: lib/backend/walker/class-nav-menu-defaults.php:54
+#: lib/backend/walker/class-nav-menu-defaults.php:79
+#: lib/backend/walker/class-nav-menu-widgets.php:181
+#: lib/backend/walker/class-nav-menu-widgets.php:206
+#: redux/redux/icons/field_icons.php:143
+#: redux/ReduxCore/inc/fields/background/field_background.php:321
+#: redux/ReduxCore/inc/fields/media/field_media.php:217
+#: redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:89
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:133
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr "Remover"
+
+#: lib/class-compiler.php:185
+msgid "updated"
+msgstr "atualizado"
+
+#: lib/class-compiler.php:185
+msgid "created"
+msgstr "criado"
+
+#: lib/class-configuration.php:122 lib/class-configuration.php:317
+#: lib/class-configuration.php:521
+#: lib/frontend/walker/class-quadmenu-item-search.php:23
+msgid "Search"
+msgstr "Pesquisar"
+
+#: lib/backend/walker/class-nav-menu-columns.php:247
+#: lib/backend/walker/class-nav-menu-columns.php:251
+#: lib/backend/walker/class-nav-menu-columns.php:257
+#: lib/backend/walker/class-nav-menu-columns.php:263
+#: lib/backend/walker/class-nav-menu-columns.php:270
+#: lib/backend/walker/class-nav-menu-columns.php:278
+#: lib/backend/walker/class-nav-menu-columns.php:288
+#: lib/backend/walker/class-nav-menu-columns.php:294
+#: lib/backend/walker/class-nav-menu-columns.php:301
+#: lib/backend/walker/class-nav-menu-columns.php:307
+#: lib/class-configuration.php:139 lib/class-configuration.php:140
+msgid "Column"
+msgstr "Coluna"
+
+#: lib/backend/walker/class-nav-menu-widgets.php:52
+#: lib/class-configuration.php:148
+msgid "Widget"
+msgstr "Widget"
+
+#: lib/class-configuration.php:252 lib/class-configuration.php:253
+#: redux/redux/icons/field_icons.php:173
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:153
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr "URL"
+
+#: lib/class-configuration.php:261 lib/class-options.php:1568
+#: lib/class-options.php:1575 redux/redux/icons/field_icons.php:156
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:145
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr "Título"
+
+#: lib/class-configuration.php:262
+msgid "Navigation Label"
+msgstr "Rótulo de navegação"
+
+#: lib/class-configuration.php:270 lib/class-configuration.php:271
+msgid "Title Attribute"
+msgstr "Atributo do título"
+
+#: lib/class-configuration.php:279 lib/class-configuration.php:280
+msgid "CSS Classes (optional)"
+msgstr "Classes de CSS (opcional)"
+
+#: lib/class-configuration.php:290
+msgid "Open link in a new tab"
+msgstr "Abrir link em nova aba"
+
+#: lib/class-configuration.php:299 lib/class-configuration.php:300
+msgid "Link Relationship (XFN)"
+msgstr "Relação de Links (XFN)"
+
+#: lib/class-configuration.php:308
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "A descrição será exibida no menu se o tema atual suportá-lo."
+
+#: lib/class-configuration.php:324 lib/class-options.php:1052
+#: lib/class-options.php:1637 lib/class-options.php:1976
+#: lib/class-options.php:2165
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: lib/class-configuration.php:342 lib/class-options.php:1088
+#: lib/class-options.php:2040 lib/class-options.php:2229
+msgid "Badge"
+msgstr "Emblema"
+
+#: lib/class-configuration.php:351 lib/class-options.php:472
+msgid "Float"
+msgstr "Flutuar"
+
+#: lib/class-configuration.php:392
+msgid "Show featured image"
+msgstr "Mostrar imagem destacada"
+
+#: lib/class-configuration.php:52 lib/class-configuration.php:87
+#: lib/class-configuration.php:100 lib/class-configuration.php:125
+#: lib/class-configuration.php:151 lib/class-configuration.php:166
+#: lib/class-configuration.php:181 lib/class-configuration.php:196
+#: lib/class-configuration.php:223 lib/class-options.php:1830
+#: lib/integrations/beaver/class-module.php:99
+#: lib/integrations/beaver/module.php:88
+msgid "General"
+msgstr "Geral"
+
+#: lib/class-configuration.php:493
+msgid "WooCommerce Cart"
+msgstr "Carrinho do WooCommerce"
+
+#: lib/class-configuration.php:501 lib/class-options.php:762
+#: lib/class-options.php:1944 lib/class-options.php:2133
+msgid "Text"
+msgstr "Texto"
+
+#: lib/backend/class-settings.php:271 lib/class-configuration.php:57
+#: lib/class-configuration.php:79 lib/class-configuration.php:82
+#: lib/class-configuration.php:105 lib/class-configuration.php:130
+#: lib/class-configuration.php:171 lib/class-configuration.php:186
+#: lib/class-configuration.php:201 lib/class-configuration.php:228
+#: lib/class-options.php:1016 lib/class-options.php:1023
+#: lib/class-options.php:1601 lib/class-options.php:1608
+#: lib/class-options.php:2008 lib/class-options.php:2197
+#: redux/redux/icons/field_icons.php:161
+msgid "Icon"
+msgstr "Ícone"
+
+#: lib/class-configuration.php:514 lib/class-options.php:1350
+msgid "Toggle"
+msgstr "Alternar"
+
+#: lib/class-configuration.php:62 lib/class-options.php:696
+#: lib/class-options.php:866 lib/class-options.php:942
+#: lib/class-options.php:970 lib/class-options.php:1108
+#: lib/class-options.php:1137 lib/class-options.php:1159
+#: lib/class-options.php:1210 lib/class-options.php:1263
+#: lib/class-options.php:1475 lib/class-options.php:1526
+#: lib/class-options.php:1693 lib/class-options.php:1719
+#: lib/class-options.php:1757 lib/class-options.php:1807
+msgid "Background"
+msgstr "Fundo"
+
+#: lib/backend/class-settings.php:196 lib/class-configuration.php:67
+#: lib/class-options.php:545 lib/class-options.php:798
+#: lib/integrations/beaver/class-module.php:180
+#: lib/integrations/beaver/module.php:169
+#: lib/integrations/divi/modules/QuadMenu/QuadMenu.php:27
+#: lib/integrations/elementor/class-module.php:169
+#: redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:156
+msgid "Width"
+msgstr "Largura"
+
+#: lib/class-configuration.php:97 lib/class-configuration.php:110
+#: lib/class-configuration.php:489 lib/class-options.php:2072
+msgid "Cart"
+msgstr "Carrinho"
+
+#: lib/class-options.php:1122 lib/class-options.php:1673
+msgid "Button"
+msgstr "Botão"
+
+#: lib/class-options.php:125
+msgid "Stylesheet"
+msgstr "Folha de estilos"
+
+#: lib/class-options.php:1227 lib/class-options.php:1237
+msgid "Sticky"
+msgstr "Fixo"
+
+#: lib/backend/class-settings.php:228 lib/class-options.php:1246
+msgid "Offset"
+msgstr "Compensação"
+
+#: lib/class-options.php:1335 lib/class-options.php:1402
+#: lib/class-options.php:1463 lib/class-options.php:1555
+#: lib/class-options.php:1588
+msgid "Border"
+msgstr "Borda"
+
+#: lib/class-options.php:1369 redux/redux/icons/field_icons.php:52
+#: redux/ReduxCore/inc/tracking.php:175
+msgid "Close"
+msgstr "Fechar"
+
+#: lib/class-options.php:151
+msgid "Widgets"
+msgstr "Widgets"
+
+#: lib/class-options.php:1864 lib/class-options.php:1897
+msgid "Transform"
+msgstr "Transformação"
+
+#: lib/class-options.php:1869 lib/class-options.php:1902
+#: lib/class-options.php:1947 lib/class-options.php:1979
+#: lib/class-options.php:2011 lib/class-options.php:2043
+#: lib/class-options.php:2075 lib/class-options.php:2136
+#: lib/class-options.php:2168 lib/class-options.php:2200
+#: lib/class-options.php:2232
+msgid "None"
+msgstr "Nenhum"
+
+#: lib/class-options.php:1870 lib/class-options.php:1903
+msgid "Capitalize"
+msgstr "Capitalizar"
+
+#: lib/class-options.php:1871 lib/class-options.php:1904
+msgid "Uppercase"
+msgstr "Caixa Alta"
+
+#: lib/class-options.php:1872 lib/class-options.php:1905
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: lib/class-options.php:1880
+msgid "Submenu"
+msgstr "Submenu"
+
+#: lib/class-options.php:211
+msgid "Customize"
+msgstr "Personalizar"
+
+#: lib/class-options.php:2108
+msgid "Bottom to top"
+msgstr "Baixo para cima"
+
+#: lib/class-options.php:271 lib/class-options.php:304
+msgid "Integration"
+msgstr "Integração"
+
+#: lib/class-options.php:294 lib/class-options.php:430 lib/class-widget.php:137
+#: lib/integrations/beaver/class-module.php:119
+#: lib/integrations/beaver/module.php:108 lib/integrations/class-vc.php:68
+#: lib/integrations/divi/modules/QuadMenu/QuadMenu.php:80
+#: lib/integrations/elementor/class-module.php:89
+#: redux/ReduxCore/inc/welcome/views/status_report.php:705
+msgid "Theme"
+msgstr "Tema"
+
+#: lib/class-options.php:337
+msgid "Responsive"
+msgstr "Responsivo"
+
+#: lib/class-options.php:345
+msgid "Gutter"
+msgstr "Espaço interno"
+
+#: lib/class-options.php:441 lib/class-options.php:522
+#: lib/class-options.php:687 lib/class-options.php:777
+#: lib/class-options.php:1847 lib/class-widget.php:125
+#: lib/integrations/beaver/class-module.php:47
+#: lib/integrations/beaver/module.php:42
+#: lib/integrations/divi/modules/QuadMenu/QuadMenu.php:71
+#: lib/integrations/elementor/class-module.php:48
+msgid "Menu"
+msgstr "Menu"
+
+#: lib/class-options.php:449 lib/class-widget.php:100
+#: lib/integrations/beaver/class-module.php:111
+#: lib/integrations/beaver/module.php:100
+#: lib/integrations/elementor/class-module.php:77
+msgid "Collapse"
+msgstr "Recolher"
+
+#: lib/class-options.php:457 lib/class-widget.php:102
+msgid "Vertical"
+msgstr "Vertical"
+
+#: lib/class-options.php:461 lib/class-widget.php:103
+#: lib/integrations/beaver/class-module.php:114
+#: lib/integrations/beaver/module.php:103
+#: lib/integrations/elementor/class-module.php:80
+msgid "Inherit"
+msgstr "Herdar"
+
+#: lib/class-options.php:476 lib/class-options.php:498
+#: lib/integrations/beaver/class-module.php:153
+#: lib/integrations/beaver/module.php:142
+#: lib/integrations/elementor/class-module.php:133
+#: redux/ReduxCore/inc/fields/border/field_border.php:163
+#: redux/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr "Esquerda"
+
+#: lib/class-options.php:480 lib/class-options.php:506
+#: lib/integrations/beaver/class-module.php:155
+#: lib/integrations/beaver/module.php:144
+#: lib/integrations/elementor/class-module.php:135
+#: redux/ReduxCore/inc/fields/border/field_border.php:149
+#: redux/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr "Direita"
+
+#: lib/class-options.php:494 lib/integrations/beaver/class-module.php:150
+#: lib/integrations/beaver/module.php:139
+#: lib/integrations/elementor/class-module.php:130
+msgid "Align"
+msgstr "Alinhar"
+
+#: lib/class-options.php:530 lib/integrations/beaver/class-module.php:166
+#: lib/integrations/beaver/module.php:155
+#: lib/integrations/elementor/class-module.php:150
+msgid "Breakpoint"
+msgstr "Ponto de interrupção"
+
+#: lib/class-options.php:569 lib/integrations/beaver/class-module.php:205
+#: lib/integrations/beaver/module.php:194
+#: lib/integrations/elementor/class-module.php:200
+msgid "Selector"
+msgstr "Seletor"
+
+#: lib/class-options.php:595 lib/class-options.php:1357
+#: lib/integrations/beaver/class-module.php:227
+#: lib/integrations/beaver/module.php:216
+#: lib/integrations/elementor/class-module.php:226
+msgid "Open"
+msgstr "Aberto"
+
+#: lib/class-options.php:605 lib/class-options.php:985
+#: lib/integrations/beaver/class-module.php:237
+#: lib/integrations/beaver/module.php:226
+#: lib/integrations/elementor/class-module.php:239
+msgid "Divider"
+msgstr "Divisor"
+
+#: lib/class-options.php:609 lib/class-options.php:625
+#: lib/class-options.php:1329 lib/class-options.php:1429
+#: lib/integrations/beaver/class-module.php:241
+#: lib/integrations/beaver/class-module.php:254
+#: lib/integrations/beaver/module.php:230
+#: lib/integrations/beaver/module.php:243
+#: lib/integrations/elementor/class-module.php:243
+#: lib/integrations/elementor/class-module.php:259
+msgid "Hide"
+msgstr "Ocultar"
+
+#: lib/class-options.php:621 lib/integrations/beaver/class-module.php:250
+#: lib/integrations/beaver/module.php:239
+#: lib/integrations/elementor/class-module.php:255
+msgid "Caret"
+msgstr "Caret"
+
+#: lib/class-options.php:636 lib/integrations/beaver/class-module.php:263
+#: lib/integrations/beaver/module.php:252
+#: lib/integrations/elementor/class-module.php:271
+msgid "Classes"
+msgstr "Classes"
+
+#: lib/class-options.php:654 lib/integrations/beaver/class-module.php:280
+#: lib/integrations/beaver/module.php:269
+#: lib/integrations/elementor/class-module.php:281
+msgid "Trigger"
+msgstr "Gatilho"
+
+#: lib/class-options.php:656 lib/class-options.php:957
+#: lib/class-options.php:1036 lib/class-options.php:1072
+#: lib/class-options.php:1148 lib/class-options.php:1513
+#: lib/class-options.php:1621 lib/class-options.php:1657
+#: lib/class-options.php:1706 lib/class-options.php:1770
+#: lib/class-options.php:1957 lib/class-options.php:1989
+#: lib/class-options.php:2021 lib/class-options.php:2053
+#: lib/class-options.php:2146 lib/class-options.php:2178
+#: lib/class-options.php:2210 lib/class-options.php:2242
+#: lib/integrations/beaver/class-module.php:282
+#: lib/integrations/beaver/module.php:271
+#: lib/integrations/elementor/class-module.php:283
+#: redux/ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Hover"
+msgstr "Passar o mouse"
+
+#: lib/class-options.php:657 lib/integrations/beaver/class-module.php:283
+#: lib/integrations/beaver/module.php:272
+#: lib/integrations/elementor/class-module.php:284
+msgid "Click"
+msgstr "Clicar"
+
+#: lib/class-options.php:699 lib/class-options.php:709
+#: lib/class-options.php:929 lib/class-options.php:1059
+#: lib/class-options.php:1095 lib/class-options.php:1126
+#: lib/class-options.php:1500 lib/class-options.php:1644
+#: lib/class-options.php:1680 redux/redux/rgba/field_rgba.php:63
+msgid "Color"
+msgstr "Cor"
+
+#: lib/class-options.php:700 lib/class-options.php:724
+msgid "Gradient"
+msgstr "Degradê"
+
+#: lib/class-options.php:786 lib/class-options.php:850
+#: lib/class-options.php:1279
+#: redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:172
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:446
+msgid "Height"
+msgstr "Altura"
+
+#: lib/class-options.php:813 lib/class-options.php:1292
+#: lib/integrations/beaver/class-module.php:130
+#: lib/integrations/beaver/module.php:119
+#: lib/integrations/elementor/class-module.php:101
+msgid "Logo"
+msgstr "Logo"
+
+#: lib/class-options.php:824 lib/class-options.php:1382
+#: lib/class-options.php:1493
+msgid "Link"
+msgstr "Link"
+
+#: lib/class-options.php:886 lib/class-widget.php:131
+#: lib/integrations/beaver/class-module.php:107
+#: lib/integrations/beaver/class-module.php:126
+#: lib/integrations/beaver/module.php:96 lib/integrations/beaver/module.php:115
+#: lib/integrations/elementor/class-module.php:73
+msgid "Layout"
+msgstr "Layout"
+
+#: lib/class-options.php:893 lib/class-options.php:1389
+#: lib/class-options.php:1439
+msgid "Margin"
+msgstr "Margem"
+
+#: lib/class-options.php:906 lib/class-options.php:1173
+#: lib/class-options.php:1450
+msgid "Radius"
+msgstr "Raio"
+
+#: lib/class-options.php:922
+msgid "Links"
+msgstr "Links"
+
+#: lib/class-options.php:106
+msgid "Configuration"
+msgstr "Configuração"
+
+#: lib/class-options.php:998 lib/class-options.php:1925
+msgid "Effect"
+msgstr "Efeito"
+
+#: lib/panel/pages/premium.php:103
+#: redux/ReduxCore/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr "Desenvolvedor"
+
+#: lib/panel/pages/welcome.php:44 redux/ReduxCore/inc/welcome/welcome.php:356
+#: vendor_packages/wp-plugin-table-links.php:18
+msgid "Support"
+msgstr "Suporte"
+
+#: lib/panel/class-options.php:26 redux/ReduxCore/framework.php:240
+#: redux/ReduxCore/framework.php:244
+msgid "Options"
+msgstr "Opções"
+
+#: redux/redux/icons/field_icons.php:135
+#: redux/ReduxCore/inc/fields/background/field_background.php:314
+#: redux/ReduxCore/inc/fields/media/field_media.php:210
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:126
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr "Enviar"
+
+#: redux/redux/icons/field_icons.php:163
+msgid "+ Add Icon"
+msgstr "+ Adicionar ícone"
+
+#: redux/redux/icons/field_icons.php:169
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:149
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr "Descrição"
+
+#: redux/redux/icons/field_icons.php:188
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:167
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr "Excluir"
+
+#: redux/redux/icons/field_icons.php:41
+msgid "Search icon"
+msgstr "Pesquisar ícone"
+
+#: redux/redux/icons/field_icons.php:73
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr "Deslizar"
+
+#: redux/redux/icons/field_icons.php:78
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:73
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:174
+msgid "New %s"
+msgstr "Novo %s"
+
+#: redux/redux/rgba/field_rgba.php:51
+#: redux/ReduxCore/inc/fields/background/field_background.php:124
+#: redux/ReduxCore/inc/fields/color/field_color.php:77
+#: redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr "Transparente"
+
+#: redux/redux/template/footer.tpl.php:55
+msgid "Delete this theme"
+msgstr "Excluir esse tema"
+
+#: redux/redux/template/header_stickybar.tpl.php:10
+msgid "Duplicate this theme"
+msgstr "Duplicar este tema"
+
+#: redux/redux/template/footer.tpl.php:56
+#: redux/redux/template/header_stickybar.tpl.php:11
+msgid "Create Theme"
+msgstr "Criar tema"
+
+#: redux/redux/template/footer.tpl.php:63
+#: redux/redux/template/header_stickybar.tpl.php:17
+#: redux/ReduxCore/templates/panel/footer.tpl.php:62
+#: redux/ReduxCore/templates/panel/header_stickybar.tpl.php:27
+msgid "Reset Section"
+msgstr "Redefinir seção"
+
+#: redux/redux/template/footer.tpl.php:64
+#: redux/redux/template/header_stickybar.tpl.php:18
+#: redux/ReduxCore/templates/panel/footer.tpl.php:64
+#: redux/ReduxCore/templates/panel/header_stickybar.tpl.php:29
+msgid "Reset All"
+msgstr "Redefinir tudo"
+
+#: redux/redux/template/footer.tpl.php:69
+#: redux/redux/template/header_stickybar.tpl.php:21
+#: redux/ReduxCore/templates/panel/footer.tpl.php:69
+#: redux/ReduxCore/templates/panel/header_stickybar.tpl.php:33
+msgid "Working..."
+msgstr "Trabalhando..."
+
+#: redux/ReduxCore/core/enqueue.php:468
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr "Você tem certeza? Ao redefinir, todas as modificações dessa seção serão perdidas."
+
+#: redux/ReduxCore/core/enqueue.php:493
+msgid "Please Wait"
+msgstr "Aguarde"
+
+#: redux/ReduxCore/core/enqueue.php:504
+msgid "There was an error saving. Here is the result of your action:"
+msgstr "Houve um erro ao salvar. Aqui está o resultado da sua ação:"
+
+#: redux/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr "Configurações importadas!"
+
+#: redux/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr "Todos os padrões restaurados!"
+
+#: redux/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr "Seção Padrões restaurada!"
+
+#: redux/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr "Configurações salvas!"
+
+#: redux/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr "As configurações foram alteradas, você deve salvá-las!"
+
+#: redux/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr "erros foram encontrados!"
+
+#: redux/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr "avisos foram encontrados!"
+
+#: redux/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "Aviso - Este painel de opções pode não funcionar devidamente sem javascript!"
+
+#: redux/ReduxCore/framework.php:1761
+msgid "Enable"
+msgstr "Ativar"
+
+#: redux/ReduxCore/framework.php:1766
+msgid "Disable"
+msgstr "Desativar"
+
+#: redux/ReduxCore/framework.php:1772
+msgid "moving the mouse over"
+msgstr "movendo o mouse sobre"
+
+#: redux/ReduxCore/framework.php:1774
+msgid "clicking"
+msgstr "clicando"
+
+#: redux/ReduxCore/framework.php:1778
+msgid "Hints are tooltips that popup when %d the hint icon, offering addition information about the field in which they appear.  They can be %d d by using the link below."
+msgstr "Dicas são sugestões que aparecem quando %d o ícone da dica, oferecendo informações adicionais sobre o campo nos quais elas aparecem. Elas podem ser %d utilizando o link abaixo."
+
+#: redux/ReduxCore/framework.php:1783
+msgid "Hints"
+msgstr "Dicas"
+
+#: redux/redux/rgba/field_rgba.php:69 redux/ReduxCore/framework.php:1910
+msgid "Default"
+msgstr "Padrão"
+
+#: redux/ReduxCore/framework.php:236
+msgid "Options panel created using %1$s"
+msgstr "Painel de configurações criado utilizando %1$s"
+
+#: redux/ReduxCore/framework.php:236
+#: redux/ReduxCore/inc/welcome/welcome.php:203
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: redux/ReduxCore/inc/class.redux_admin_notices.php:111
+msgid "Dismiss"
+msgstr "Dispensar"
+
+#: redux/ReduxCore/core/enqueue.php:452
+#: redux/ReduxCore/inc/extensions/customizer/extension_customizer.php:713
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "Você tem mudanças não salvas. Gostaria de salvá-las agora?"
+
+#: redux/ReduxCore/core/enqueue.php:460
+#: redux/ReduxCore/inc/extensions/customizer/extension_customizer.php:714
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "Você tem certeza? Ao redefinir, todas as modificações serão perdidas."
+
+#: redux/ReduxCore/core/enqueue.php:476
+#: redux/ReduxCore/inc/extensions/customizer/extension_customizer.php:715
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr "Suas opções atuais serão substituídas pelas configurações iniciais. Gostaria de proceder?"
+
+#: redux/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr "Repetição do fundo"
+
+#: redux/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr "Clipe do fundo"
+
+#: redux/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr "Origem do fundo"
+
+#: redux/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr "Tamanho do fundo"
+
+#: redux/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr "Fixação do fundo"
+
+#: redux/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr "Posição do fundo"
+
+#: redux/ReduxCore/inc/fields/background/field_background.php:277
+#: redux/ReduxCore/inc/fields/media/field_media.php:157
+msgid "No media selected"
+msgstr "Nenhuma mídia foi selecionada"
+
+#: redux/ReduxCore/inc/fields/border/field_border.php:178
+msgid "Border style"
+msgstr "Estilo de borda"
+
+#: redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr "De "
+
+#: redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr "Para "
+
+#: redux/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:71
+msgid "Choose"
+msgstr "Escolher"
+
+#: redux/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:72
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: redux/redux/rgba/field_rgba.php:71
+#: redux/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:74
+msgid "Select Color"
+msgstr "Selecionar cor"
+
+#: redux/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "Adicionar/Editar galeria"
+
+#: redux/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "Limpar galeria"
+
+#: redux/ReduxCore/inc/fields/link_color/field_link_color.php:102
+msgid "Active"
+msgstr "Ativo"
+
+#: redux/ReduxCore/inc/fields/link_color/field_link_color.php:106
+msgid "Focus"
+msgstr "Foco"
+
+#: redux/ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Regular"
+msgstr "Normal"
+
+#: redux/ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Visited"
+msgstr "Visitado"
+
+#: redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:62
+msgid "Add More"
+msgstr "Adicionar mais"
+
+#: redux/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr "Senha"
+
+#: redux/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: redux/ReduxCore/inc/fields/select/field_select.php:137
+#: redux/ReduxCore/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr "Não foram encontrados itens desse tipo."
+
+#: redux/ReduxCore/inc/fields/select/field_select.php:86
+#: redux/ReduxCore/inc/fields/select_image/field_select_image.php:54
+msgid "Select an item"
+msgstr "Selecionar um item"
+
+#: redux/ReduxCore/inc/fields/slides/field_slides.php:223
+msgid "Add %s"
+msgstr "Adicionar %s"
+
+#: redux/ReduxCore/inc/fields/border/field_border.php:129
+#: redux/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr "Todos"
+
+#: redux/ReduxCore/inc/fields/border/field_border.php:142
+#: redux/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "Topo"
+
+#: redux/ReduxCore/inc/fields/border/field_border.php:156
+#: redux/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr "Base"
+
+#: redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:183
+#: redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:184
+#: redux/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: redux/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr "Unidades"
+
+#: redux/ReduxCore/inc/fields/switch/field_switch.php:45
+msgid "On"
+msgstr "Ligado"
+
+#: redux/ReduxCore/inc/fields/switch/field_switch.php:48
+msgid "Off"
+msgstr "Desligado"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:1018
+msgid "Google Webfonts"
+msgstr "Webfonts do Google"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:235
+msgid "Font Family"
+msgstr "Família da fonte"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:236
+msgid "Font family"
+msgstr "Família da fonte"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:277
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:285
+msgid "Font style"
+msgstr "Estilo da fonte"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:278
+msgid "Font Weight &amp; Style"
+msgstr "Peso e estilo da fonte"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:285
+msgid "Style"
+msgstr "Estilo"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font subsets"
+msgstr "Subconjuntos de fonte"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:327
+msgid "Font Subsets"
+msgstr "Subconjuntos de fonte"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:329
+msgid "Subsets"
+msgstr "Subconjuntos"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:329
+msgid "Font script"
+msgstr "Script da fonte"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:346
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:347
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:348
+msgid "Text Align"
+msgstr "Alinhamento de texto"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:369
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:370
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:371
+msgid "Text Transform"
+msgstr "Transformação de texto"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:392
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:393
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:394
+msgid "Font Variant"
+msgstr "Variante de fonte"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:412
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:413
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:414
+msgid "Text Decoration"
+msgstr "Decoração de texto"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:436
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:437
+msgid "Font Size"
+msgstr "Tamanho da fonte"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:445
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:446
+msgid "Line Height"
+msgstr "Altura da linha"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:454
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:455
+msgid "Word Spacing"
+msgstr "Espaçamento de palavras"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:463
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:464
+msgid "Letter Spacing"
+msgstr "Espaçamento de letras"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:482
+msgid "Font Color"
+msgstr "Cor da fonte"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:484
+msgid "Font color"
+msgstr "Cor da fonte"
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:917
+msgid "Standard Fonts"
+msgstr "Fontes padrão"
+
+#: redux/ReduxCore/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr "Opcional"
+
+#: redux/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr "Utilitários de localização Redux"
+
+#: redux/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr "Redux Resting Diles"
+
+#: redux/ReduxCore/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr "Estilos de código Redux"
+
+#: redux/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr "Teste de unidade Redux"
+
+#: redux/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr "Arquivo de plugin Redux"
+
+#: redux/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr "Testes de Bootstrap Redux"
+
+#: redux/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr "Arquivo de teste CI"
+
+#: redux/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr "Unidade de teste PHP"
+
+#: redux/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr "Ajude a melhorar nosso painel"
+
+#: redux/ReduxCore/inc/tracking.php:130
+msgid "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test to ensure compatibility."
+msgstr "Ajude-nos a melhorar o nosso painel, permitindo-nos reunir estatísticas de utilização anónimas, para que possamos saber quais as configurações, os plugins e os temas devemos testar para garantir a compatibilidade."
+
+#: redux/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr "Não permitir rastreamento"
+
+#: redux/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr "Bem-vindo ao Painel de demonstração do Redux"
+
+#: redux/ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr "Primeiros passos"
+
+#: redux/ReduxCore/inc/tracking.php:152
+msgid "This panel demonstrates the many features of Redux.  Before digging in, we suggest you get up to speed by reviewing %1$s."
+msgstr "Este painel demonstra os muitos recursos do Redux. Antes de futucar, sugerimos que busque rapidamente por uma revisão %1$s."
+
+#: redux/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr "nossa documentação"
+
+#: redux/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr "Gerador Redux"
+
+#: redux/ReduxCore/inc/tracking.php:153
+msgid "Want to get a head start? Use the %1$s. It will create a customized boilerplate theme or a standalone admin folder complete with all things Redux (with the help of Underscores and TGM). Save yourself a headache and try it today."
+msgstr "Quer uma dica? Use o %1$s. Ele criará um tema inicial personalizado ou uma pasta de admin completa com tudo Redux (com a ajuda de Sublinhados e TGM). Evite dores de cabeça e experimente hoje."
+
+#: redux/ReduxCore/inc/validation/color/validation_color.php:15
+#: redux/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:19
+#: redux/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+msgid "This field must be a valid color value."
+msgstr "Esse campo deve conter um valor de cor válido."
+
+#: redux/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr "Insira uma lista, separada por vírgulas, de valores numéricos válido para essa opção."
+
+#: redux/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr "Este campo deve conter uma data válida."
+
+#: redux/ReduxCore/inc/validation/email/validation_email.php:16
+#: redux/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr "Insira um e-mail válido para essa opção."
+
+#: redux/ReduxCore/inc/validation/not_empty/validation_not_empty.php:20
+msgid "This field cannot be empty. Please provide a value."
+msgstr "Este campo não pode estar vazio. Por favor informe um valor."
+
+#: redux/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr "Você não deve inserir HTML nesse campo. As tags HTML foram desabilitadas."
+
+#: redux/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:19
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr "Você não deve inserir caracteres especiais nesse campo. Os caracteres especiais foram desabilitados."
+
+#: redux/ReduxCore/inc/validation/numeric/validation_numeric.php:21
+#: redux/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr "Insira um valor numérico válido para essa opção."
+
+#: redux/ReduxCore/inc/validation/url/validation_url.php:19
+msgid "You must provide a valid URL for this option."
+msgstr "Insira uma URL válida para essa opção."
+
+#: redux/ReduxCore/inc/welcome/views/about.php:2
+msgid "Welcome to Redux Framework %s"
+msgstr "Bem-vindo ao Redux Framework %s"
+
+#: redux/ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr "Saiba mais"
+
+#: redux/ReduxCore/inc/welcome/views/about.php:8
+#: redux/ReduxCore/inc/welcome/views/changelog.php:10
+#: redux/ReduxCore/inc/welcome/views/credits.php:10
+#: redux/ReduxCore/inc/welcome/views/extensions.php:81
+#: redux/ReduxCore/inc/welcome/views/status_report.php:34
+#: redux/ReduxCore/inc/welcome/views/support.php:8
+msgid "Version %s"
+msgstr "Versão %s"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr "Versão do Redux"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:103
+msgid "The version of Redux Framework installed on your site."
+msgstr "A versão do Framework Redux instalado no seu site."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr "Diretório gravável de dados Redux"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr "Versão do WP"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:140
+msgid "The version of WordPress installed on your site."
+msgstr "A versão do WordPress instalado em seu site."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr "WP Multisite"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:151
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "No caso de você ter ou não habilitado o WordPress Multisite."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:185
+msgid "Front Page"
+msgstr "Página Inicial"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:196
+msgid "Posts Page"
+msgstr "Página de posts"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr "Limite de memória do WP"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:213
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "A quantidade máxima de memória (RAM) que seu site pode usar de uma só vez."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr "Modo de Debug do WP"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:243
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Exibe se o WordPress esta funcionando em Modo de Depuração ou não."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:255
+msgid "Language"
+msgstr "Idioma"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:258
+msgid "The current language used by WordPress. Default = English"
+msgstr "O idioma usado pelo WordPress: Padrão = Inglês"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr "Navegador"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr "Informação do Navegador"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr "Ambiente do servidor"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr "Informações do servidor"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:307
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Informações sobre o servidor que esta hospedando atualmente o seu site."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr "Ambiente Localhost"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:318
+msgid "Is the server running in a localhost environment."
+msgstr "O servidor está sendo executado em um ambiente localhost."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr "Versão do PHP"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:335
+msgid "The version of PHP installed on your hosting server."
+msgstr "A versão do PHP instalado no servidor de hospedagem."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr "ABSPATH"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:346
+msgid "The ABSPATH variable on the server."
+msgstr "A variável ABSPATH no servidor."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr "Limite de Memória do PHP"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:356
+#: redux/ReduxCore/inc/welcome/views/status_report.php:361
+msgid "The largest filesize that can be contained in one post."
+msgstr "O maior tamanho de arquivo que pode conter em um post."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr "Tamanho máximo para upload no PHP"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr "Limite de tempo PHP"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:366
+msgid "The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)"
+msgstr "Quantidade de tempo (em segundos) que o seu site vai gastar em uma única operação antes do tempo limite (para evitar travamentos de servidor)"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr "Máximo de entrada de variáveis (Max Input Vars) do PHP"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:371
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr "O número máximo de variáveis que seu servidor pode usar em uma única função para evitar sobrecargas."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr "Exibição de erros PHP"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:387
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN Instalado"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr "Versão do MySQL"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:400
+msgid "The version of MySQL installed on your hosting server."
+msgstr "A versão do MySQL instalado no seu servidor de hospedagem."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr "Tamanho máximo de upload"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:405
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr "O maior tamanho de arquivo que pode ser enviado para sua instalação WordPress."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr "O padrão do fuso horário é UTC"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:412
+msgid "The default timezone for your server."
+msgstr "O fuso horário padrão do seu servidor."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:416
+msgid "Default timezone is %s - it should be UTC"
+msgstr "O fuso horário padrão é %s - deve ser UTC"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:43
+msgid "Please copy and paste this information in your ticket when contacting support:"
+msgstr "Copie e cole esta informação em seu relatório quando entrar em contato com o suporte:"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:473
+msgid "Remote Post"
+msgstr "Post remoto"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr "Obter relatório do sistema"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:482
+#: redux/ReduxCore/inc/welcome/views/status_report.php:497
+msgid "Error: %s"
+msgstr "Erro: %s"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:489
+msgid "Remote Get"
+msgstr "Get remoto"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr "Entendendo o relatório de status"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:531
+msgid "Active Plugins"
+msgstr "Plugins ativos"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:546
+msgid "Visit plugin homepage"
+msgstr "Visitar a página do plugin"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:553
+msgctxt "by author"
+msgid "by %s"
+msgstr "por %s"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr "Instância do Redux: "
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr "Copiado!"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:63
+msgid "Copy for Support"
+msgstr "Copiar para suporte"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:710
+msgid "Name"
+msgstr "Nome"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:711
+msgid "The name of the current active theme."
+msgstr "O nome do tema atualmente ativo."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:715
+msgid "Version"
+msgstr "Versão"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:716
+msgid "The installed version of the current active theme."
+msgstr "A versão instalada do tema atual ativo."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr "está disponível"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:728
+msgid "Author URL"
+msgstr "URL do autor"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:729
+msgid "The theme developers URL."
+msgstr "A URL dos desenvolvedores do tema."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:73
+msgid "WordPress Environment"
+msgstr "Ambiente do WordPress"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:733
+msgid "Child Theme"
+msgstr "Tema descendente"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:734
+msgid "Displays whether or not the current theme is a child theme."
+msgstr "Exibe se o tema atual é ou não um tema descendente."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr "Nome do tema ascendente"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:747
+msgid "The name of the parent theme."
+msgstr "O nome do tema ascendente."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr "Versão do tema ascendente"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:754
+msgid "The installed version of the parent theme."
+msgstr "A versão instalada do tema ascendente."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr "URL do autor do tema ascendente"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:761
+msgid "The parent theme developers URL."
+msgstr "A URL dos desenvolvedores do tema ascendente."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr "URL da página inicial"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:83
+msgid "The URL of your site's homepage."
+msgstr "O URL da sua página inicial."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:89
+msgid "Site URL"
+msgstr "URL do site"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:92
+msgid "The root URL of your site."
+msgstr "O URL base do seu site."
+
+#: redux/ReduxCore/inc/welcome/views/support.php:63
+msgid "User"
+msgstr "Usuário"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:203
+msgid "Welcome to Redux Framework"
+msgstr "Bem-vindo ao Redux Framework"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:211
+msgid "Redux Framework Changelog"
+msgstr "Histórico de alterações do Redux Framework"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:219
+msgid "Get Support"
+msgstr "Obter suporte"
+
+#: redux/ReduxCore/inc/tracking.php:154
+#: redux/ReduxCore/inc/welcome/welcome.php:227
+msgid "Redux Extensions"
+msgstr "Extensões do Redux"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:236
+msgid "The people that develop Redux Framework"
+msgstr "As pessoas que desenvolvem o Redux Framework"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:244
+msgid "Redux Framework Status"
+msgstr "Status do Redux Framework"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:344
+msgid "What's New"
+msgstr "O que há de novo"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:347
+msgid "Extensions"
+msgstr "Extensions"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:350
+msgid "Changelog"
+msgstr "Histórico de alterações"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:353
+msgid "Credits"
+msgstr "Créditos"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:359
+msgid "Status"
+msgstr "Status"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:519
+msgid "View %s"
+msgstr "Ver %s"
+
+#: redux/ReduxCore/templates/panel/header.tpl.php:11
+#: redux/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr "Modo de desenvolvedor ativado"
+
+#: redux/ReduxCore/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr "e"
+
+#: redux/ReduxCore/templates/panel/footer.tpl.php:57
+#: redux/ReduxCore/templates/panel/header_stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#. Description of the plugin
+#: quadmenu.php
+msgid "The best drag & drop WordPress Mega Menu plugin which allow you to create Tabs Menus & Carousel Menus."
+msgstr "O melhor plugin WordPress para Mega Menu com arrastar-e-soltar que permite a você criar menus com abas e carrossel."
+
+#: lib/integrations/divi/modules/QuadMenu/QuadMenu.php:84
+msgid "Select a the theme that should be used in the menu"
+msgstr "Selecione o tema que deve ser usado no menu"
+
+#: lib/integrations/divi/modules/QuadMenu/QuadMenu.php:84
+msgid "Click here to create new theme"
+msgstr "Clique aqui para criar o novo tema"
+
+#: lib/integrations/elementor/class-module.php:54
+msgid "Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your menus."
+msgstr "Vá até a <a href=\"%s\" target=\"_blank\">tela de menus</a> para gerenciar seus menus."
+
+#: lib/integrations/elementor/class-module.php:62
+msgid "There are no menus in your site.<br>Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr "Não existem menus no seu site.<br>Vá para a <a href=\"%s\" target=\"_blank\">Tela de menus</a> para criar um."
+
+#: lib/integrations/elementor/class-module.php:92
+msgid "Go to the <a href=\"%s\" target=\"_blank\">QuadMenu Options</a> to manage your menu themes."
+msgstr "Vá para o <a href=\"%s\" target=\"_blank\">QuadMenu Options</a> para gerenciar seus temas de menu."
+
+#: lib/integrations/class-vc.php:57
+msgid "QuadMenu Shortcode"
+msgstr "Shortcode QuadMenu"
+
+#: lib/integrations/class-vc.php:71
+msgid "Choose a theme location."
+msgstr "Escolha um local de tema."
+
+#: lib/backend/class-ajax.php:224 lib/backend/class-ajax.php:439
+msgid "Undefined menu-item var."
+msgstr "Variável menu-item indefinida."
+
+#: lib/backend/class-ajax.php:262
+msgid "Class %s don't exists."
+msgstr "A classe %s não existe."
+
+#: lib/backend/class-ajax.php:282
+msgid "Failed to add %s"
+msgstr "Falha ao adicionar %s"
+
+#: lib/backend/class-ajax.php:335
+msgid "Failed to add %s. Is not registered in QuadMenu Items."
+msgstr "Falha ao adicionar %s. Não está registrado nos items QuadMenu."
+
+#: lib/backend/class-ajax.php:343
+msgid "Failed to add %s. Only can be placed on the main menu."
+msgstr "Falha ao adicionar %s. Só pode ser colocado no menu principal."
+
+#: lib/backend/class-ajax.php:45
+msgid "QuadMenu Items"
+msgstr "Itens do QuadMenu"
+
+#: lib/backend/class-ajax.php:369
+msgid "Removed items %s."
+msgstr "Itens removidos %s."
+
+#: lib/backend/class-ajax.php:47
+msgid "QuadMenu Archives"
+msgstr "Arquivos do QuadMenu"
+
+#: lib/backend/class-ajax.php:436
+msgid "Updated items %s."
+msgstr "Itens atualizados %s."
+
+#: lib/backend/class-ajax.php:480
+msgid "Can't load settings of %s."
+msgstr "Não é possível carregar as configurações de %s."
+
+#: lib/backend/class-ajax.php:549 lib/backend/class-ajax.php:560
+msgid "Can't save settings of %s."
+msgstr "Não é possível salvar as configurações de %s."
+
+#: lib/backend/class-ajax.php:555
+msgid "Saved settings of %s."
+msgstr "Configurações salvas de %s."
+
+#: lib/backend/class-settings.php:323 lib/backend/class-settings.php:383
+msgid "Select media image"
+msgstr "Selecionar imagem de mídia"
+
+#: lib/backend/class-settings.php:346
+msgid "Repeat"
+msgstr "Repetir"
+
+#: lib/backend/class-settings.php:402
+msgid "Unknown field %s."
+msgstr "Campo desconhecido %s."
+
+#: lib/backend/walker/class-nav-menu-defaults.php:58
+#: lib/backend/walker/class-nav-menu-widgets.php:185
+msgid "(Invalid)"
+msgstr "(Inválido)"
+
+#: lib/backend/walker/class-nav-menu-widgets.php:19 lib/class-plugin.php:102
+#: lib/frontend/walker/class-quadmenu-item-widget.php:72
+msgid "QuadMenu Widgets"
+msgstr "Widgets do QuadMenu"
+
+#: lib/backend/walker/class-nav-menu-widgets.php:337
+msgid "Saved settings of %s Widget"
+msgstr "Configurações salvas do widget %s"
+
+#: lib/class-compiler.php:99
+msgid "Imports is undefined."
+msgstr "Importações indefinidas."
+
+#: lib/class-compiler.php:104
+msgid "CSS is undefined."
+msgstr "CSS indefinido."
+
+#: lib/class-compiler.php:158
+msgid "Some style options have been changed. Your stylesheet will be compiled to reflect changes. %s."
+msgstr "Algumas opções de estilo foram alteradas. Sua folha de estilo será compilada para refletir as alterações. %s."
+
+#: lib/class-compiler.php:168
+msgid "ReduxFramework is not installed"
+msgstr "O ReduxFramework não está instalado"
+
+#: lib/class-compiler.php:180
+msgid "Folder created : %1$s"
+msgstr "Pasta criada : %1$s"
+
+#: lib/class-compiler.php:185
+msgid "File has been %2$s : %1$s"
+msgstr "O arquivo foi %2$s : %1$s"
+
+#: lib/class-compiler.php:189
+msgid "File cant't been created : %1$s"
+msgstr "Arquivo não pôde ser criado : %1$s"
+
+#: lib/class-configuration.php:115
+msgid "A cart widget for Woocommerce."
+msgstr "Um widget para o WooCommerce."
+
+#: lib/class-configuration.php:121
+msgid "QuadMenu Search"
+msgstr "Pesquisa no QuadMenu"
+
+#: lib/class-configuration.php:135
+msgid "A search form for the site."
+msgstr "Um formulário de pesquisa para o site."
+
+#: lib/class-configuration.php:142
+msgid "Column to organize the content."
+msgstr "Coluna para organizar o conteúdo."
+
+#: lib/class-configuration.php:147 lib/class-widget.php:29
+msgid "QuadMenu Widget"
+msgstr "Widget do QuadMenu"
+
+#: lib/class-configuration.php:156
+msgid "Include a widget inside column."
+msgstr "Inclua um widget dentro da coluna."
+
+#: lib/class-configuration.php:325
+msgid "Enter item subtitle"
+msgstr "Informe o subtítulo do item"
+
+#: lib/class-configuration.php:334
+msgid "Enter item placeholder"
+msgstr "Informe o texto de espaço reservado do item"
+
+#: lib/class-configuration.php:343
+msgid "Item badge title"
+msgstr "Título do emblema do item"
+
+#: lib/class-configuration.php:352
+msgid "Float item to left or right"
+msgstr "Flutuação do item para a esquerda ou direita"
+
+#: lib/class-configuration.php:357
+msgid "Default item position"
+msgstr "Posição padrão do item"
+
+#: lib/class-configuration.php:358
+msgid "Float item opposite to default"
+msgstr "Flutuação do item oposto ao padrão"
+
+#: lib/class-configuration.php:365
+msgid "Dropdown Float"
+msgstr "Flutuação do menu suspenso"
+
+#: lib/class-configuration.php:366
+msgid "Float dropdown to left o right"
+msgstr "Flutuar menu suspenso para a esquerda ou direita"
+
+#: lib/class-configuration.php:370
+msgid "Float dropdown right"
+msgstr "Flutuar menu suspenso à direita"
+
+#: lib/class-configuration.php:371
+msgid "Float dropdown left"
+msgstr "Flutuar menu suspenso à esquerda"
+
+#: lib/class-configuration.php:378
+msgid "Hide on screen sizes"
+msgstr "Ocultar nos tamanhos de tela"
+
+#: lib/class-configuration.php:382 lib/class-configuration.php:383
+#: lib/class-configuration.php:384 lib/class-configuration.php:385
+msgid "Hidden %1$s"
+msgstr "%1$s oculto"
+
+#: lib/class-configuration.php:397
+msgid "Hide featured image"
+msgstr "Ocultar a imagem destacada"
+
+#: lib/class-configuration.php:398
+msgid "Show featured image in thumbnail size"
+msgstr "Mostrar imagem destacada em tamanho miniatura"
+
+#: lib/class-configuration.php:399
+msgid "Show featured image in wide size"
+msgstr "Mostrar imagem destacada em tamanho grande"
+
+#: lib/class-configuration.php:409
+msgid "Show items excerpt"
+msgstr "Mostrar resumo dos itens"
+
+#: lib/class-configuration.php:48
+msgid "QuadMenu Mega"
+msgstr "QuadMenu Mega"
+
+#: lib/class-configuration.php:49
+msgid "Mega"
+msgstr "Mega"
+
+#: lib/class-configuration.php:430
+msgid "Dropdown Width"
+msgstr "Largura do menu suspenso"
+
+#: lib/class-configuration.php:435
+msgid "Boxed dropdown"
+msgstr "Menu suspenso em caixa"
+
+#: lib/class-configuration.php:436
+msgid "Stretch dropdown"
+msgstr "Esticar o menu suspenso"
+
+#: lib/class-configuration.php:438
+msgid "Custom dropdown width"
+msgstr "Largura personalizada do menu suspenso"
+
+#: lib/class-configuration.php:513
+msgid "Embeded"
+msgstr "Embeded"
+
+#: lib/frontend/walker/class-quadmenu-item-cart.php:23
+msgid "Your cart"
+msgstr "Seu carrinho"
+
+#: lib/class-options.php:1326
+msgid "Display shadow on mobile navbar."
+msgstr "Exibir uma sombra na barra de navegação de dispositivos móveis."
+
+#: lib/class-options.php:1336
+msgid "Pick a color for the border separator."
+msgstr "Escolha uma cor para o separador de borda."
+
+#: lib/class-options.php:1358
+msgid "Pick a color for the toggle icon."
+msgstr "Escolha uma cor para o ícone de alternância."
+
+#: lib/class-options.php:1426
+msgid "Display shadow on dropdown menus."
+msgstr "Exibir uma sombra nos menus suspensos."
+
+#: lib/class-options.php:152
+msgid "Load default widgets stylesheets."
+msgstr "Carregar folhas de estilo padrão dos widgets."
+
+#: lib/class-options.php:1440
+msgid "Dropdown margin top."
+msgstr "Margem superior menu suspenso."
+
+#: lib/class-options.php:1451
+msgid "Dropdown border radius."
+msgstr "Raio da borda do menu suspenso."
+
+#: lib/class-options.php:1464
+msgid "Pick a border color for the dropdown."
+msgstr "Escolha uma cor de borda para o menu suspenso."
+
+#: lib/class-options.php:1476
+msgid "Pick a background color for the dropdown menu."
+msgstr "Escolha uma cor de fundo para o menu suspenso."
+
+#: lib/class-options.php:1501
+msgid "Pick a color for the dropdown menu links."
+msgstr "Escolha uma cor para os links do menu suspenso."
+
+#: lib/class-options.php:1514
+msgid "Pick a color for the dropdown menu links on mousehover."
+msgstr "Escolha uma cor para os links do menu suspenso ao passar o mouse."
+
+#: lib/class-options.php:1527
+msgid "Pick a background color for the links on mouseover."
+msgstr "Escolha uma cor de fundo para os links ao passar o mouse."
+
+#: lib/class-options.php:1556
+msgid "Pick a border color for the dropdown menu links border."
+msgstr "Escolha uma cor de borda para a borda dos links no menu suspenso."
+
+#: lib/class-options.php:166
+msgid "Perfect ScrollBar"
+msgstr "Barra de rolagem perfeita"
+
+#: lib/class-options.php:1758
+msgid "Pick a color for the navbar tab."
+msgstr "Escolha uma cor para o separador da aba na barra de navegação."
+
+#: lib/class-options.php:1771
+msgid "Pick a color for the navbar tab on hover."
+msgstr "Escolha uma cor para o separador da aba na barra de navegação ao passar o mouse."
+
+#: lib/class-options.php:186
+msgid "Select the fonticon for your menus."
+msgstr "Selecione a fonte de ícones para os seus menus."
+
+#: lib/class-options.php:1831 lib/class-options.php:1848
+#: lib/class-options.php:1881
+msgid "Specify the font properties."
+msgstr "Defina as propriedades da fonte."
+
+#: lib/class-options.php:1950 lib/class-options.php:1982
+#: lib/class-options.php:2014 lib/class-options.php:2046
+#: lib/class-options.php:2078 lib/class-options.php:2139
+#: lib/class-options.php:2171 lib/class-options.php:2203
+#: lib/class-options.php:2235
+msgid "Rubber"
+msgstr "Borracha"
+
+#: lib/class-options.php:1952 lib/class-options.php:1984
+#: lib/class-options.php:2016 lib/class-options.php:2048
+#: lib/class-options.php:2080 lib/class-options.php:2141
+#: lib/class-options.php:2173 lib/class-options.php:2205
+#: lib/class-options.php:2237
+msgid "Tada"
+msgstr "Tcharam"
+
+#: lib/class-options.php:2107
+msgid "FadeIn"
+msgstr "Aparecer"
+
+#: lib/class-options.php:2111
+msgid "Hinge"
+msgstr "Dobradiça"
+
+#: lib/class-options.php:280
+msgid "Conflicts"
+msgstr "Conflitos"
+
+#: lib/class-options.php:557 lib/integrations/beaver/class-module.php:193
+#: lib/integrations/beaver/module.php:182
+#: lib/integrations/elementor/class-module.php:185
+msgid "Inner"
+msgstr "Inner"
+
+#: lib/panel/pages/premium.php:14
+msgid "With the premium version, you'll receive a full integration with the live theme customizer dashboard. "
+msgstr "Com a versão premium, você receberá uma integração completa com o painel do customizador de temas ao vivo. "
+
+#: lib/panel/class-system.php:230 lib/panel/class-welcome.php:230
+msgid "To import the demo content 300 seconds of max execution time is required. See: "
+msgstr "Para importar o conteúdo de demonstração é necessário um tempo máximo de execução de 300 segundos. Veja: "
+
+#: lib/panel/class-system.php:277 lib/panel/class-welcome.php:277
+msgid "SUHOSIN is installed"
+msgstr "SUHOSIN está instalado"
+
+#: lib/panel/class-system.php:439 lib/panel/class-welcome.php:439
+msgid "We recommend setting memory to at least 64MB. The Plugin is well tested with a 40MB/request limit, but if you are using multiple plugins that may not be enough. See: "
+msgstr "Recomendamos definir a memória para pelo menos 64MB. O plugin é bem testado com um limite de 40MB/solicitação, mas se você estiver usando vários plugins isso pode não ser suficientes. Veja: "
+
+#: lib/panel/class-system.php:137 lib/panel/class-welcome.php:137
+msgid "Please install it as a plugin"
+msgstr "Instale-o como um plugin"
+
+#: lib/panel/class-system.php:137 lib/panel/class-welcome.php:137
+msgid "Your Redux version is outdated: "
+msgstr "Sua versão do Redux está desatualizada: "
+
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:262
+#: redux/ReduxCore/inc/fields/typography/field_typography.php:263
+msgid "Backup Font Family"
+msgstr "Fazer backup da família de fonte"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr "Prefixo das tabelas da base de dados"
+
+#: templates/layout/alert.php:8
+msgid "Please include a valid theme location in your php functions. For example:"
+msgstr "Inclua uma localização de tema válida nas suas funções php. Por exemplo:"
+
+#: lib/class-configuration.php:431
+msgid "This controls the width of the dropdown and contents."
+msgstr "Isso controla a largura do menu suspenso e o conteúdo."
+
+#: lib/class-configuration.php:494
+msgid "Easy Digital Downloads Cart"
+msgstr "Carrinho do Easy Digital Downloads"
+
+#: lib/class-configuration.php:551
+msgid "Undefined default"
+msgstr "Padrão indefinido"
+
+#: lib/class-configuration.php:72
+msgid "A menu which can wrap any type of widget."
+msgstr "Um menu que pode envolver qualquer tipo de widget."
+
+#: lib/class-configuration.php:78
+msgid "QuadMenu Icon"
+msgstr "Ícone do QuadMenu"
+
+#: lib/class-configuration.php:92
+msgid "Just an icon, no title."
+msgstr "Apenas um ícone, sem título."
+
+#: lib/class-configuration.php:96
+msgid "QuadMenu Cart"
+msgstr "Carrinho do QuadMenu"
+
+#: lib/frontend/walker/class-quadmenu-item-widget.php:54
+msgid "Widget %s dosen't exists"
+msgstr "Widget %s não existe"
+
+#: lib/class-plugin.php:103
+#: lib/frontend/walker/class-quadmenu-item-widget.php:74
+msgid "Do not manually edit this sidebar."
+msgstr "Não edite esta barra lateral manualmente."
+
+#: lib/frontend/walker/class-quadmenu-walker.php:127
+#: lib/frontend/walker/class-quadmenu-walker.php:129
+msgid "Add a menu to %1$s"
+msgstr "Adicionar um menu a %1$s"
+
+#: lib/class-icons.php:38
+msgid "Theme icons have been changed. Your options panel will be reloaded. %s."
+msgstr "Ícones do tema foram alterados. O painel de opções será recarregado. %s."
+
+#: lib/class-options.php:1024
+msgid "Pick a color for the navbar links icon."
+msgstr "Escolha uma cor para os ícones de link da barra de navegação."
+
+#: lib/class-options.php:1037
+msgid "Pick a color for the navbar links icon on hover."
+msgstr "Escolha uma cor para o ícone dos links da barra de navegação na passagem do mouse."
+
+#: lib/class-options.php:1060
+msgid "Pick a color for the navbar links subtitle."
+msgstr "Escolha uma cor para a legenda dos links da barra de navegação."
+
+#: lib/class-options.php:116
+msgid "Viewport"
+msgstr "Janela de exibição"
+
+#: lib/class-options.php:1073
+msgid "Pick a color for the navbar links subtitle on hover."
+msgstr "Escolha uma cor para a legenda dos links da barra de navegação na passagem do mouse."
+
+#: lib/class-options.php:117
+msgid "Include the viewport meta tag in site head."
+msgstr "Inclua a tag meta viewport no head do site."
+
+#: lib/class-options.php:1096
+msgid "Pick a color for the badge."
+msgstr "Escolha uma cor para o emblema."
+
+#: lib/class-options.php:1109
+msgid "Pick a background color for the badge."
+msgstr "Escolha uma cor de fundo para o emblema."
+
+#: lib/class-options.php:1127 lib/class-options.php:1138
+#: lib/class-options.php:1681 lib/class-options.php:1694
+msgid "Pick a color for the navbar button."
+msgstr "Escolha uma cor para o botão da barra de navegação."
+
+#: lib/class-options.php:1149 lib/class-options.php:1160
+msgid "Pick a color for the navbar button on mousehover."
+msgstr "Escolha uma cor para o botão da barra de navegação na passagem do mouse."
+
+#: lib/class-options.php:126
+msgid "Load styles in your theme."
+msgstr "Carregue estilos no seu tema."
+
+#: lib/class-options.php:1174
+msgid "Button border radius."
+msgstr "Raio da borda do botão."
+
+#: lib/class-options.php:1188 lib/class-options.php:1785
+msgid "ScrollBar"
+msgstr "Barra de rolagem"
+
+#: lib/class-options.php:1200 lib/class-options.php:1797
+msgid "Pick a color for the scrollbar."
+msgstr "Escolha uma cor para a barra de rolagem."
+
+#: lib/class-options.php:1211 lib/class-options.php:1808
+msgid "Pick a color for the scrollbar rail."
+msgstr "Escolha uma cor para o trilho da barra de rolagem."
+
+#: lib/class-options.php:1238
+msgid "Make the menu sticky on scroll."
+msgstr "Deixe o menu fixo na rolagem."
+
+#: lib/class-options.php:1247
+msgid "Set the length of the scroll for each user to pass before the menu will stick to the top of the window."
+msgstr "Defina o comprimento da rolagem para que cada usuário passe antes que o menu fique na parte superior da janela."
+
+#: lib/class-options.php:1264
+msgid "Change the navbar sticky background."
+msgstr "Mude o fundo fixo da barra de navegação."
+
+#: lib/class-options.php:136
+msgid "Normalize"
+msgstr "Normalizar"
+
+#: lib/class-options.php:137
+msgid "Try to clean residual styling of the theme."
+msgstr "Tente limpar estilo residual do tema."
+
+#: lib/class-options.php:1280
+msgid "Change the navbar sticky height."
+msgstr "Altere a altura fixa da barra de navegação."
+
+#: lib/class-options.php:1370
+msgid "Pick a color for the toggle button background on hover."
+msgstr "Escolha uma cor para o fundo do botão de alternância na passagem do mouse."
+
+#: lib/class-options.php:1390
+msgid "Set the margin for the mobile links."
+msgstr "Defina a margem para os links de dispositivos móveis."
+
+#: lib/class-options.php:1403
+msgid "Pick a border color for the mobile menu links border."
+msgstr "Escolha uma cor de borda para a borda do menu de links de dispositivos móveis."
+
+#: lib/class-options.php:1576
+msgid "Pick a color for the dropdown menu title."
+msgstr "Escolha uma cor para o título do menu suspenso."
+
+#: lib/class-options.php:167
+msgid "Load Perfect scroll bar files."
+msgstr "Carregar arquivos de barra de rolagem perfeito."
+
+#: lib/class-options.php:1589
+msgid "Pick a color for the dropdown menu title border."
+msgstr "Escolha uma cor para a borda do título do menu suspenso."
+
+#: lib/class-options.php:1609
+msgid "Pick a color for the dropdown links icon."
+msgstr "Selecione uma cor para o ícone de links do menu suspenso."
+
+#: lib/class-options.php:1622
+msgid "Pick a color for the dropdown links icon on hover."
+msgstr "Selecione uma cor para o ícone de links suspensos ao passar o mouse."
+
+#: lib/class-options.php:1645
+msgid "Pick a color for the dropdown links subtitle."
+msgstr "Escolha uma cor para a legenda dos links suspensos."
+
+#: lib/class-options.php:1658
+msgid "Pick a color for the dropdown links subtitle on hover."
+msgstr "Escolha uma cor para a legenda dos links suspensos ao passar o mouse."
+
+#: lib/class-options.php:175
+msgid "OWL Carousel"
+msgstr "Carrossel OWL"
+
+#: lib/class-options.php:176
+msgid "Load OWL Carousel files."
+msgstr "Carregar arquivos Carrossel OWL."
+
+#: lib/class-options.php:1707 lib/class-options.php:1720
+msgid "Pick a color for the navbar button on hover."
+msgstr "Escolha uma cor para o separador da aba na barra de navegação ao passar o mouse."
+
+#: lib/class-options.php:1865 lib/class-options.php:1898
+msgid "Pick a text transform for the link."
+msgstr "Escolha uma transformação de texto para o link."
+
+#: lib/class-options.php:1926
+msgid "Add an amazing effect for the hover event."
+msgstr "Adicione um efeito incrível para o evento de passagem do mouse."
+
+#: lib/class-options.php:1928
+msgid "Ripple"
+msgstr "Ondulação"
+
+#: lib/class-options.php:1930
+msgid "SlideBar Top (Horizontal)"
+msgstr "Topo da barra deslizante (Horizontal)"
+
+#: lib/class-options.php:1931
+msgid "SlideBar Middle (Horizontal)"
+msgstr "Meio da barra deslizante (Horizontal)"
+
+#: lib/class-options.php:1932
+msgid "SlideBar Bottom (Horizontal)"
+msgstr "Parte de baixo da barra deslizante (Horizontal)"
+
+#: lib/class-options.php:1945
+msgid "Select the animation for the link text."
+msgstr "Selecione a animação para o texto do link."
+
+#: lib/class-options.php:1977
+msgid "Select the animation for the link subtitle."
+msgstr "Selecione a animação para a legenda do link."
+
+#: lib/class-options.php:2009
+msgid "Select the animation for the links icons."
+msgstr "Selecione a animação para os ícones dos links."
+
+#: lib/class-options.php:2041
+msgid "Select the animation for the links badges."
+msgstr "Selecione a animação para os emblemas dos links."
+
+#: lib/class-options.php:2073
+msgid "Select the animation for the cart bubble."
+msgstr "Selecione a animação para a bolha do carrinho."
+
+#: lib/class-options.php:2105
+msgid "Select the animation for the dropdowns."
+msgstr "Selecione a animação para os menus suspensos."
+
+#: lib/class-options.php:2134 lib/class-options.php:2166
+#: lib/class-options.php:2198 lib/class-options.php:2228
+msgid "Select the animation for the menu links."
+msgstr "Selecione a animação para os links do menu."
+
+#: lib/class-options.php:223
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr "Adicionar rapidamente alguns CSS ao seu tema, adicionando-o a este bloco."
+
+#: lib/class-options.php:272
+msgid "Integrate QuadMenu in this theme location."
+msgstr "Integre o QuadMenu à este local de tema."
+
+#: lib/class-options.php:281
+msgid "Try to solve conflicts of residual theme style."
+msgstr "Tente resolver conflitos de estilo residual do tema."
+
+#: lib/class-options.php:295
+msgid "Select a theme for this theme location"
+msgstr "Selecione um tema para este local de tema"
+
+#: lib/class-options.php:306
+msgid "If your menu doesn't seem to be working properly after using Automatic Integration, the most common scenario is that you have residual styling from your theme and would need to use Manual Integration instead."
+msgstr "Se o seu menu não parece estar funcionando corretamente depois de usar a Integração Automática, o cenário mais comum é que você tem estilo residual do seu tema e precisaria usar a Integração Manual em vez disso."
+
+#: lib/class-options.php:317
+msgid "Manual Integration"
+msgstr "Integração Manual"
+
+#: lib/class-options.php:320
+msgid "Copy the generated PHP function code and paste it into the appropriate template in your theme."
+msgstr "Copie o código da função PHP gerado e cole-o no modelo apropriado em seu tema."
+
+#: lib/class-options.php:346
+msgid "Padding between columns."
+msgstr "Preenchimento entre colunas."
+
+#: lib/class-options.php:357
+msgid "Screen Small"
+msgstr "Tela pequena"
+
+#: lib/class-options.php:358
+msgid "Small screens breakpoint."
+msgstr "Ponto de interrupção de telas pequenas."
+
+#: lib/class-options.php:369
+msgid "Screen Medium"
+msgstr "Tela média"
+
+#: lib/class-options.php:370
+msgid "Medium screens breakpoint."
+msgstr "Ponto de interrupção de telas médias."
+
+#: lib/class-options.php:381
+msgid "Screen Large"
+msgstr "Tela grande"
+
+#: lib/class-options.php:382
+msgid "Large screens breakpoint."
+msgstr "Ponto de interrupção de telas grandes."
+
+#: lib/class-options.php:431
+msgid "Change theme name."
+msgstr "Alterar o nome do tema."
+
+#: lib/class-options.php:442
+msgid "Change menu layout."
+msgstr "Modificar layout do menu."
+
+#: lib/class-options.php:453 lib/class-widget.php:101
+#: lib/integrations/beaver/class-module.php:112
+#: lib/integrations/beaver/module.php:101
+#: lib/integrations/elementor/class-module.php:78
+msgid "Offcanvas"
+msgstr "Fora da tela"
+
+#: lib/class-options.php:473
+msgid "Vertical menu position."
+msgstr "Posição do menu vertical."
+
+#: lib/class-options.php:495 lib/integrations/beaver/class-module.php:151
+#: lib/integrations/beaver/module.php:140
+#: lib/integrations/elementor/class-module.php:131
+msgid "Menu items alignment."
+msgstr "Alinhamento de itens do menu."
+
+#: lib/class-options.php:531
+msgid "Point at which the navbar becomes uncollapsed."
+msgstr "Ponto no qual a barra de navegação fica expandida."
+
+#: lib/class-options.php:546 lib/integrations/beaver/class-module.php:181
+#: lib/integrations/beaver/module.php:170
+#: lib/integrations/elementor/class-module.php:170
+msgid "Try to force menu width to fit screen."
+msgstr "Tente forçar a largura do menu para se ajustar à tela."
+
+#: lib/class-options.php:558
+msgid "Try to force menu inner width to fit selector."
+msgstr "Tente forçar a largura interna do menu para se ajustar ao seletor."
+
+#: lib/class-options.php:570 lib/integrations/beaver/class-module.php:206
+#: lib/integrations/beaver/module.php:195
+#: lib/integrations/elementor/class-module.php:201
+msgid "The menu container will take the width of this selector."
+msgstr "O contentor do menu terá a largura deste seletor."
+
+#: lib/class-options.php:586
+msgid "Defer images load until they are required."
+msgstr "Adiar o carregamento das imagens até que sejam requeridas."
+
+#: lib/class-options.php:588 lib/integrations/beaver/class-module.php:223
+#: lib/integrations/beaver/module.php:212
+#: lib/integrations/elementor/class-module.php:219
+msgid "This is a beta function, please test it carefully."
+msgstr "Esta é uma função beta, por favor teste-a cuidadosamente."
+
+#: lib/class-options.php:596 lib/integrations/beaver/class-module.php:233
+#: lib/integrations/beaver/module.php:222
+#: lib/integrations/elementor/class-module.php:232
+msgid "Open dropdown if is current page."
+msgstr "Abrir menu suspenso se for a página atual."
+
+#: lib/class-options.php:606 lib/integrations/beaver/class-module.php:238
+#: lib/integrations/beaver/module.php:227
+#: lib/integrations/elementor/class-module.php:240
+msgid "Show a small divider bar between each menu item."
+msgstr "Mostre uma pequena barra divisória entre cada item do menu."
+
+#: lib/class-options.php:608 lib/class-options.php:624
+#: lib/class-options.php:1328 lib/class-options.php:1428
+#: lib/integrations/beaver/class-module.php:240
+#: lib/integrations/beaver/class-module.php:253
+#: lib/integrations/beaver/module.php:229
+#: lib/integrations/beaver/module.php:242
+#: lib/integrations/elementor/class-module.php:242
+#: lib/integrations/elementor/class-module.php:258
+msgid "Show"
+msgstr "Mostrar"
+
+#: lib/class-options.php:622 lib/integrations/beaver/class-module.php:251
+#: lib/integrations/beaver/module.php:240
+#: lib/integrations/elementor/class-module.php:256
+msgid "Show carets on items with dropdown menus."
+msgstr "Mostrar carets em itens com menus suspensos."
+
+#: lib/class-options.php:637
+msgid "Include your own classes in the menu."
+msgstr "Inclua suas próprias classes no menu."
+
+#: lib/class-options.php:646 lib/class-options.php:1417
+#: lib/class-options.php:2096 lib/class-options.php:2104
+#: lib/integrations/beaver/class-module.php:273
+#: lib/integrations/beaver/module.php:262
+msgid "Dropdown"
+msgstr "Menu suspenso"
+
+#: lib/class-options.php:659 lib/integrations/beaver/class-module.php:285
+#: lib/integrations/beaver/module.php:274
+#: lib/integrations/elementor/class-module.php:286
+msgid "Open dropdown menu on mouseover or click."
+msgstr "Abra o menu suspenso ao passar o mouse ou clicar."
+
+#: lib/class-options.php:671 lib/integrations/beaver/class-module.php:294
+#: lib/integrations/beaver/module.php:283
+#: lib/integrations/elementor/class-module.php:300
+msgid "Set the max height of dropdowns."
+msgstr "Defina a altura máxima dos menus suspensos."
+
+#: lib/class-options.php:697
+msgid "Select the navbar background."
+msgstr "Selecione o fundo da barra de navegação."
+
+#: lib/class-options.php:710 lib/class-options.php:725
+msgid "Pick a background color for the navbar."
+msgstr "Escolha uma cor de fundo para a barra de navegação."
+
+#: lib/class-options.php:744
+msgid "Degrees"
+msgstr "Graus"
+
+#: lib/class-options.php:745
+msgid "Pick a degrees angle for background gradient."
+msgstr "Escolha um ângulo em graus para o gradiente de fundo."
+
+#: lib/class-options.php:763
+msgid "Pick a color for the navbar text."
+msgstr "Escolha uma cor para o texto da barra de navegação."
+
+#: lib/class-options.php:787
+msgid "Change the items height."
+msgstr "Alterar a altura dos itens."
+
+#: lib/class-options.php:799
+msgid "Change the items width."
+msgstr "Alterar a largura dos itens."
+
+#: lib/class-options.php:825
+msgid "Set navbar logo url."
+msgstr "Definir url do logo da barra de navegação."
+
+#: lib/class-options.php:838
+msgid "Upload the navbar logo image."
+msgstr "Carregue a imagem do logo da barra de navegação."
+
+#: lib/class-options.php:851 lib/class-options.php:1293
+#: lib/integrations/elementor/class-module.php:102
+msgid "Max logo height in px."
+msgstr "Altura máxima do logotipo em px."
+
+#: lib/class-options.php:867
+msgid "Pick a background color for the navbar logo."
+msgstr "Escolha uma cor de fundo para o logo da barra de navegação."
+
+#: lib/class-options.php:894
+msgid "Set the margin for the navbar links."
+msgstr "Defina a margem para os links da barra de navegação."
+
+#: lib/class-options.php:907
+msgid "Set the radius for the navbar links."
+msgstr "Defina o raio para os links da barra de navegação."
+
+#: lib/class-options.php:930
+msgid "Pick a color for the navbar links."
+msgstr "Escolha uma cor para os links da barra de navegação."
+
+#: lib/class-options.php:943
+msgid "Pick a color for the navbar background."
+msgstr "Escolha uma cor para o fundo da barra de navegação."
+
+#: lib/class-options.php:958
+msgid "Pick a color for the navbar links on mousehover."
+msgstr "Escolha uma cor para os links da barra de navegação na passagem do mouse."
+
+#: lib/class-options.php:971
+msgid "Pick a color for the navbar background on mousehover."
+msgstr "Escolha uma cor para o fundo da barra de navegação na passagem do mouse."
+
+#: lib/class-options.php:986
+msgid "Pick a color for the navbar links divider."
+msgstr "Escolha uma cor para o divisor de links da barra de navegação."
+
+#: lib/class-options.php:999
+msgid "Pick a color for the navbar link effect on mousehover."
+msgstr "Escolha uma cor para o efeito ao passar o mouse nos links da barra de navegação ."
+
+#: lib/panel/pages/welcome.php:46
+msgid "We offer personalized support to all <a href=\"%s\" target=\"_blank\">QuadMenu PRO</a> users. To get support first you need to create an account and open a ticket in your account."
+msgstr "Oferecemos suporte personalizado a todos os usuários <a href=\"%s\" target=\"_blank\">do QuadMenu PRO</a>. Para obter suporte primeiro você precisa criar uma conta e abrir um chamado em sua conta."
+
+#: lib/panel/pages/welcome.php:32
+msgid "Our online documentation will give you important information about the plugin. This is an exceptional resource to start discovering the plugin’s true potential."
+msgstr "Nossa documentação online lhe dará informações importantes sobre o plugin. Este é um recurso excepcional para começar a descobrir o verdadeiro potencial do plugin."
+
+#: lib/panel/pages/welcome.php:39
+msgid "Thank you for choosing our mega menu plugin! Here you can see our demo content and some layout examples to explore the QuadMenu features."
+msgstr "Obrigado por escolher nosso plugin para mega menu! Aqui você pode ver nosso conteúdo de demonstração e alguns exemplos de layout para explorar os recursos do QuadMenu."
+
+#: lib/panel/pages/welcome.php:41
+msgid "View demo"
+msgstr "Ver demonstração"
+
+#: lib/panel/pages/premium.php:7
+msgid "Unlock the power of our premium mega menu plugin which offers you a variety of unique elements that allow you to highlight your website over the competitors and provide an standout navigability for your users."
+msgstr "Desbloqueie o poder do nosso plugin premium para mega menu que lhe oferece uma variedade de elementos exclusivos que lhe permitem destacar o seu site sobre os concorrentes e fornecer uma navegabilidade de destaque para seus usuários."
+
+#: lib/panel/pages/premium.php:17
+msgid "This is a very powerfull feature if you will include this plugin in your themes project, as this allows you and your end users to tweak all menu color scheme or layout settings and see the effect of that changes in real time."
+msgstr "Este é um recurso muito poderoso se você incluir este plugin em seu projeto de temas, pois permite que você e seus usuários finais ajustem todos os esquemas de cores ou configurações de layout do menu e vejam o efeito dessas mudanças em tempo real."
+
+#: lib/panel/pages/premium.php:34
+msgid "With the tabs, you can <a href=\"%s\">create a tab mega menu</a> where you can include widgets or any kind of content available in your menu dashboard."
+msgstr "Com as abas, você pode <a href=\"%s\">criar um mega menu de guias</a> onde você pode incluir widgets ou qualquer tipo de conteúdo disponível no painel do menu."
+
+#: lib/panel/pages/premium.php:37
+msgid "This element is allows you to set a custom background for the whole dropdown and handle the title, icons, badges and subtitles on each tab."
+msgstr "Este elemento permite que você defina um fundo personalizado para toda a lista suspensa e trate do título, ícones, emblemas e legendas em cada guia."
+
+#: lib/panel/pages/premium.php:48
+msgid "Our carousel element allows you to create a <a href=\"%s\">carousel mega menu</a> where you can include widgets or any kind of content available in your menu dashboard."
+msgstr "Nosso elemento carrossel permite que você crie um <a href=\"%s\">mega menu carrossel</a> onde você pode incluir widgets ou qualquer tipo de conteúdo disponível no painel do seu menu."
+
+#: lib/panel/pages/premium.php:51
+msgid "This element is also available for <a href=\"%s\">categories and archives items</a> and lets you create a carousel of the latest's post, products, pages and any post type available in your site."
+msgstr "Este elemento também está disponível para <a href=\"%s\">categorias e itens de arquivos</a> e permite que você crie um carrossel das últimas postagens, produtos, páginas e qualquer tipo de post disponível em seu site."
+
+#: lib/panel/pages/premium.php:68
+msgid "The user login element provides your menu with a <a href=\"%s\">login and register form</a> that is displayed in a drop-down. Recently we've improved this feature to include a drop-down menu for logged in users where you can display any link and a quick access to the user account."
+msgstr "O elemento de login do usuário fornece ao seu menu um <a href=\"%s\">formulário de login e registro</a> que é exibido em um menu suspenso. Recentemente, melhoramos esse recurso para incluir um menu suspenso para usuários conectados, onde você pode exibir qualquer link e um acesso rápido à conta de usuário."
+
+#: lib/panel/pages/premium.php:79
+msgid "The social icons element allow you to include a list of social networks icons with links. There is a mode called toggle that shows an icon in the main menu that toggles the list when the user makes a click and other mode called embed that displays the entire icons list."
+msgstr "O elemento de ícones sociais permite incluir uma lista de ícones de redes sociais com links. Há uma modalidade chamada alternar que mostra um ícone no menu principal que alterna a lista quando o usuário faz um clique e uma outra modalidade chamada incorporado que mostra a lista inteira dos ícones."
+
+#: lib/panel/pages/premium.php:91 lib/panel/pages/premium.php:98
+#: lib/panel/pages/premium.php:105
+msgid "The single or personal license allows you to install %s in one site, receive the premium support for six month and lifetime updates."
+msgstr "A licença única ou pessoal permite que você instale %s em um site, receba o suporte premium para atualizações de seis meses e vitalícias."
+
+#: lib/panel/class-system.php:62 lib/panel/class-welcome.php:62
+msgid "Green status: this check passed our system status test!"
+msgstr "Estado verde: esta verificação passou no nosso teste de estado do sistema!"
+
+#: lib/panel/class-system.php:65 lib/panel/class-welcome.php:65
+msgid "Yellow status: this setting may affect the backend of the site. The frontend should still run as expected. We recommend that you fix this."
+msgstr "Status amarelo: esta configuração pode afetar o backend do site. O frontend ainda deve funcionar como esperado. Recomendamos que você conserte isso."
+
+#: lib/panel/class-system.php:68 lib/panel/class-welcome.php:68
+msgid "Red status: the site may not work as expected with this option."
+msgstr "Status vermelho: o site pode não funcionar como esperado com esta opção."
+
+#: lib/panel/class-system.php:71 lib/panel/class-welcome.php:71
+msgid "Info status: this is just for information purposes and easier debug if a problem appears"
+msgstr "Status de informação: isso é apenas para fins de informação e depuração mais fácil se um problema aparecer"
+
+#: lib/panel/pages/welcome.php:10
+msgid "Thank you for using our plugin, we're very grateful for your welcome. We have worked very much and very hard to release this great product and we will do our absolute best to support it and fix all the issues."
+msgstr "Obrigado por usar nosso plugin, estamos muito gratos por sua acolhida. Temos trabalhado muito e muito duro para lançar este grande produto e faremos o nosso melhor para dar suporte e corrigir todos os problemas."
+
+#: lib/panel/pages/welcome.php:15
+msgid "Easy and fast start"
+msgstr "Início fácil e rápido"
+
+#: lib/panel/pages/welcome.php:17
+msgid "The QuadMenu Plugin has a simple and intuitive interface, integrated into the WP dashboard, allowing you to create and customize an unlimited amount of mega menus, without any programming skills."
+msgstr "O plugin  para QuadMenu tem uma interface simples e intuitiva, integrada ao painel WP, permitindo-lhe criar e personalizar uma quantidade ilimitada de mega menus, sem qualquer habilidade de programação."
+
+#: lib/panel/pages/welcome.php:20
+msgid "Go to the <a href=\"%s\">Options</a> panel and activate the plugin in your theme locations."
+msgstr "Vá ao painel <a href=\"%s\">Opções</a> e ative o plugin em seus locais de tema."
+
+#: lib/panel/class-system.php:207 lib/panel/class-welcome.php:207
+msgid "You cannot upload images, themes and plugins that have a size bigger than this value"
+msgstr "Você não pode carregar imagens, temas e plugins que tenham um tamanho maior do que este valor"
+
+#: lib/panel/class-system.php:230 lib/panel/class-welcome.php:230
+msgid "Increasing max execution to PHP"
+msgstr "Aumentando a execução máxima para PHP"
+
+#: lib/panel/class-system.php:277 lib/panel/class-welcome.php:277
+msgid "It may cause problems with saving the plugin panel if it's not properly configured"
+msgstr "Pode causar problemas ao salvar o painel do plugin se ele não estiver configurado corretamente"
+
+#: lib/panel/class-system.php:297 lib/panel/class-welcome.php:297
+msgid "LESS files allowed"
+msgstr "Arquivos LESS permitidos"
+
+#: lib/panel/class-system.php:307 lib/panel/class-welcome.php:307
+msgid "Can't compile stylesheets"
+msgstr "Não é possível compilar folhas de estilo"
+
+#: lib/panel/class-system.php:309 lib/panel/class-welcome.php:309
+msgid "Can't download LESS mime types"
+msgstr "Não é possível baixar os tipos mime LESS"
+
+#: lib/panel/class-system.php:320 lib/panel/class-welcome.php:320
+msgid "Folder is writable"
+msgstr "Pasta gravável"
+
+#: lib/panel/class-system.php:330 lib/panel/class-welcome.php:330
+msgid "Can't write uploads folder"
+msgstr "Não é possível escrever a pasta uploads"
+
+#: lib/panel/class-system.php:369 lib/panel/class-welcome.php:369
+msgid "Home URL != Site URL"
+msgstr "Home URL != URL do site"
+
+#: lib/panel/class-system.php:369 lib/panel/class-welcome.php:369
+msgid "Home URL not equal to Site URL, this may indicate a problem with your WordPress configuration."
+msgstr "URL da página inicial diferente da URL do site, isso pode indicar um problema com sua configuração do WordPress."
+
+#: lib/panel/class-system.php:415 lib/panel/class-welcome.php:415
+msgid "Your theme doesn't natively support menus"
+msgstr "O seu tema não suporta menus nativamente"
+
+#: lib/panel/class-system.php:462 lib/panel/class-welcome.php:462
+#: redux/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr "WP_DEBUG está ativo"
+
+#: lib/panel/class-system.php:500 lib/panel/class-welcome.php:500
+msgid "No caching plugin detected"
+msgstr "Nenhum plugin de cache detectado"
+
+#: lib/panel/class-system.php:158 lib/panel/class-welcome.php:158
+msgid "Activate ReduxFramework"
+msgstr "Ativar ReduxFramework"
+
+#: lib/panel/class-system.php:171 lib/panel/class-welcome.php:171
+msgid "You have %s active menu locations"
+msgstr "Você tem %s locais de menu ativos"
+
+#: lib/class-themes.php:111
+msgid "Can't create theme."
+msgstr "Não consigo criar um tema."
+
+#: lib/class-themes.php:141
+msgid "Theme deleted. Your options panel will be reloaded to remove their options. %s."
+msgstr "Tema excluído. Seu painel de opções será recarregado para remover suas opções. %s."
+
+#: lib/class-themes.php:145
+msgid "Can't delete theme."
+msgstr "Não consigo apagar o tema."
+
+#: lib/class-themes.php:195
+msgid "Theme name changed."
+msgstr "O nome do tema mudou."
+
+#: lib/class-themes.php:201
+msgid "Are you sure? Resetting will lose all custom values and themes."
+msgstr "Tem certeza? A redefinição perderá todos os valores e temas personalizados."
+
+#: lib/class-themes.php:101
+msgid "Custom Theme %s"
+msgstr "Tema Personalizado %s"
+
+#: lib/class-themes.php:107
+msgid "New theme created. Your options panel will be reloaded to include their options. %s."
+msgstr "Novo tema criado. Seu painel de opções será recarregado para incluir suas opções. %s."
+
+#: lib/class-widget.php:20
+msgid "A widget that displays the menu in the sidebar."
+msgstr "Um widget que exibe o menu na barra lateral."
+
+#: redux/ReduxCore/core/enqueue.php:484
+msgid "Your current options will be replaced with the values of this import. Would you like to proceed?"
+msgstr "Suas opções atuais serão substituídas pelos valores desta importação. Gostaria de prosseguir?"
+
+#: redux/ReduxCore/core/enqueue.php:505
+msgid "There was a problem with your action. Please try again or reload the page."
+msgstr "Houve um problema com a sua ação. Por favor tente novamente ou recarregue a página."
+
+#: redux/ReduxCore/framework.php:2790
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr "Credenciais de segurança inválidas. Por favor, recarregue a página e tente de novo."
+
+#: redux/ReduxCore/framework.php:2799
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr "Capacidade de usuário inválida. Por favor, recarregue a página e tente de novo."
+
+#: redux/ReduxCore/framework.php:2879
+msgid "Your panel has no fields. Nothing to save."
+msgstr "Seu painel não tem nenhum campo. Nada para salvar."
+
+#: redux/ReduxCore/framework.php:3999
+msgid "<strong>Redux Framework Notice: </strong>There are references to the Redux Framework support site in your config's <code>admin_bar_links</code> argument.  This is sample data.  Please change or remove this data before shipping your product."
+msgstr "<strong>Aviso do Redux Framework:</strong> Há referências ao site de suporte do Redux Framework em seu argumento de configuração <code>admin_bar_links</code>.  Estes são dados da amostra.  Altere ou remova esses dados antes de enviar seu produto."
+
+#: redux/ReduxCore/framework.php:4015
+msgid "<strong>Redux Framework Notice: </strong>There are references to the Redux Framework support site in your config's <code>share_icons</code> argument.  This is sample data.  Please change or remove this data before shipping your product."
+msgstr "<strong>Aviso do Redux Framework:</strong> Há referências ao site de suporte do Redux Framework em seu argumento de configuração <code>share_icons</code>.  Estes são dados da amostra.  Altere ou remova esses dados antes de enviar seu produto."
+
+#: redux/ReduxCore/inc/themecheck/checks/embedded.php:15
+msgid "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are submitting to WordPress.org Theme Repository, it is <strong>strongly</strong> suggested that you read <a href=\"%s\" target=\"_blank\">this document</a>, or your theme will be rejected because of Redux."
+msgstr "<span class=\"tc-lead tc-recommended\">RECOMENDADO</span>: Se você está enviando para o Repositório de Temas do WordPress.org, é <strong>fortemente</strong> recomendade que você leia <a href=\"%s\" target=\"_blank\">este documento</a>, Ou seu tema será rejeitado por causa do Redux."
+
+#: redux/ReduxCore/inc/themecheck/checks/embedded.php:24
+msgid "<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete <strong> %s </strong>, or your theme will be rejected by WP.org theme submission because of Redux."
+msgstr "<span class=\"tc-lead tc-required\">OBRIGATÓRIO</span>: Você DEVE deletar <strong> %s </strong>, ou seu tema será rejeitado pelo envio do tema WP.org por causa do Redux."
+
+#: redux/ReduxCore/inc/themecheck/checks/embedded.php:40
+msgid "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following arguments MUST be used for WP.org submissions, or you will be rejected because of your Redux configuration."
+msgstr "<span class=\"tc-lead tc-recommended\">RECOMENDADO</span>: Os argumentos a seguir devem ser usados para os envios ao WP.org, ou você será rejeitado por causa de seu Redux."
+
+#: redux/ReduxCore/inc/themecheck/checks/full_package.php:36
+msgid "It appears that you have embedded the full Redux package inside your theme. You need only embed the <strong>ReduxCore</strong> folder. Embedding anything else will get your rejected from theme submission. Suspected Redux package file(s):"
+msgstr "Parece que você incorporou o pacote Redux completo dentro de seu tema. Você só precisa inserir a pasta <strong>ReduxCore</strong>. A Incorporação de qualquer outra coisa causará a rejeição do seu tema. Pacote de arquivo(s) Redux suspeito(s):"
+
+#: redux/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr "Permitir rastreamento"
+
+#: redux/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr "Strings não seguras foram encontradas no seu CSS e foram filtradas."
+
+#: redux/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+msgid "That URL slug is in use, please choose another. <code>%s</code> is open for use."
+msgstr "Esta slug da URL está em uso, por favor escolha outra. <code>%s</code> está disponível para uso."
+
+#: redux/ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr "O que é Redux Framework?"
+
+#: redux/ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+"Redux Framework é o núcleo de muitos produtos na web. É um quadro de opção, que os desenvolvedores usam para\n"
+" aprimorar seus produtos."
+
+#: redux/ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr "Novo nesta versão"
+
+#: redux/ReduxCore/inc/welcome/views/about.php:5
+msgid "Thank you for updating to the latest version! Redux Framework %s is a huge step forward in Redux Development. Look at all that's new."
+msgstr "Muito obrigado por atualizar para a última versão! Redux Framework %s é um grande passo no desenvolvimento Redux. Veja todas as novidades."
+
+#: redux/ReduxCore/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr "Histórico de alterações do Redux Framework"
+
+#: redux/ReduxCore/inc/welcome/views/credits.php:18
+msgid "Redux is created by a community of developers world wide. Want to have your name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr "Redux foi criado por uma comunidade de desenvolvedores em todo o mundo. Quer ter seu nome listado também? <a href=\"%d\" target=\"_blank\"> Contribua para o Redux </a>."
+
+#: redux/ReduxCore/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr "Redux Framework - Um esforço comunitário"
+
+#: redux/ReduxCore/inc/welcome/views/credits.php:5
+msgid "We recognize we are nothing without our community. We would like to thank all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr "Nós reconhecemos que não somos nada sem a nossa comunidade. Nós gostaríamos de agradecer a todos aqueles que ajudam o Redux a ser o que é. Obrigado por sua participação."
+
+#: redux/ReduxCore/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr "Redux Framework - Extensões"
+
+#: redux/ReduxCore/inc/welcome/views/extensions.php:76
+msgid "Supercharge your Redux experience. Our extensions provide you with features that will take your products to the next level."
+msgstr "Incremente sua experiência Redux. Nossas extensões fornecem a você recursos que irão levar os seus produtos ao próximo nível."
+
+#: redux/ReduxCore/inc/welcome/views/extensions.php:89
+msgid "While some are built specificially for developers, extensions such as Custom Fonts are sure to make any user happy."
+msgstr "Enquanto alguns são construídos especificamente para desenvolvedores, extensões como Fontes Personalizadas certamente podem fazer qualquer usuário feliz."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:114
+msgid "Redux and its extensions write data to the <code>uploads</code> directory. This directory must be writable."
+msgstr "Redux e as suas extensões escrevem dados no diretório de <code>uploads</code>. Este diretório deve permitir escrita."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:120
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr "Para permitir salvar dados, autorize escrita em <code>%s</code>."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:126
+msgid "WP Content URL"
+msgstr "URL de conteúdo WP"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:129
+msgid "The location of Wordpress's content URL."
+msgstr "O local da URL de conteúdo WordPress."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:162
+msgid "Permalink Structure"
+msgstr "Estrutura de permalinks"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:165
+msgid "The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr "A estrutura de links permanentes atual como definida no WordPress em Configurações -> Links permanentes."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:174
+msgid "Front Page Display"
+msgstr "Exibição da Página Inicial"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:176
+msgid "The current Reading mode of Wordpress."
+msgstr "Modo de leitura atual do WordPress."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:188
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr "A página atualmente selecionada que age como a Página Inicial do site."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:199
+msgid "The currently selected page in where blog posts are displayed."
+msgstr "A página atualmente selecionada onde os artigos do blog são exibidos."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:232
+msgid "The prefix structure of the current Wordpress database."
+msgstr "A estrutura de prefixo da base de dados WordPress atual."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr "Redux Framework - Estado do Sistema"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:280
+msgid "Information about web browser current in use."
+msgstr "Informações sobre o navegador em uso atualmente."
+
+#: redux/ReduxCore/inc/welcome/views/changelog.php:5
+#: redux/ReduxCore/inc/welcome/views/status_report.php:30
+msgid "Our core mantra at Redux is backwards compatibility. With hundreds of thousands of instances worldwide, you can be assured that we will take care of you and your clients."
+msgstr "Nosso mantra central na Redux é a retrocompatibilidade. Com centenas de milhares de casos em todo o mundo, você pode ter certeza que vamos cuidar de você e seus clientes."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:376
+msgid "Determines if PHP will display errors within the browser."
+msgstr "Determina se o PHP irá exibir erros no navegador."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:388
+msgid "Suhosin is an advanced protection system for PHP installations. It was designed to protect your servers on the one hand against a number of well known problems in PHP applications and on the other hand against potential unknown vulnerabilities within these applications or the PHP core itself.  If enabled on your server, Suhosin may need to be configured to increase its data submission limits."
+msgstr "Suhosin é um sistema de proteção avançada para instalações PHP. Ele foi projetado para proteger seus servidores contra uma série de problemas bem conhecidos em aplicações PHP e contra potenciais vulnerabilidades desconhecidas dentro dessas aplicações ou o próprio núcleo do PHP. Se ativado em seu servidor, o Suhosin pode precisar ser configurado para aumentar seus limites de envio de dados."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:428
+msgid "Used when communicating with remote services with PHP."
+msgstr "Usado na comunicação com serviços remotos com PHP."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:434
+msgid "Your server does not have fsockopen or cURL enabled - cURL is used to communicate with other servers. Please contact your hosting provider."
+msgstr "O seu servidor não tem fsockopen ou cURL habilitados - cURL é usado para comunicação com outros servidores. Entre em contato com o seu provedor de hospedagem."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:474
+msgid "Used to send data to remote servers."
+msgstr "Usado para enviar dados para servidores remotos."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:479
+msgid "wp_remote_post() failed. Many advanced features may not function. Contact your hosting provider."
+msgstr "wp_remote_post() falhou. Muitos recursos avançados podem não funcionar. Entre em contato com o seu provedor de hospedagem."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:490
+msgid "Used to grab information from remote servers for updates updates."
+msgstr "Usado para obter informações de servidores remotos para atualizações."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:495
+msgid "wp_remote_get() failed. This is needed to get information from remote servers. Contact your hosting provider."
+msgstr "wp_remote_get() falhou. Isso é necessário para obter informações a partir de servidores remotos. Entre em contato com o seu provedor de hospedagem."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:579
+msgid "The opt_name argument for this instance of Redux."
+msgstr "O argumento opt_name para esta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:587
+msgid "The global_variable argument for this instance of Redux."
+msgstr "O argumento global_variable para esta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:595
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr "Indica se o modo desenvolvedor está habilitado para esta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:600
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr "Indica se o salvamento baseado em ajax está ativado para esta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:605
+msgid "The page slug denotes the string used for the options panel page for this instance of Redux."
+msgstr "O slug da página denota a string usada para a página do painel de opções para esta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:610
+msgid "The page permissions variable sets the permission level required to access the options panel for this instance of Redux."
+msgstr "A variável de permissão de página define o nível de permissão necessário para acessar o painel de opções para esta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:615
+msgid "This variable set whether or not the menu is displayed as an admin menu item for this instance of Redux."
+msgstr "Esta variável define se o menu vai ou não ser exibido como um item do menu de administração para esta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:620
+msgid "The page parent variable sets where the options menu will be placed on the WordPress admin sidebar for this instance of Redux."
+msgstr "As variáveis ​​de página-mãe definem onde o menu de opções será colocado na barra administrativa lateral do WordPress para esta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:626
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr "Indica se o sinalizador do compilador está ativo nesta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:631
+msgid "Indicates if output flag for globally shutting off all CSS output is enabled for this instance of Redux."
+msgstr "Indica se o sinalizador de saída que está fechando global todas as saídas CSS está ativo para esta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:636
+msgid "The output_tag variable sets whether or not dynamic CSS will be generated for the customizer and Google fonts for this instance of Redux."
+msgstr "A variável ​​output_tag define se será ou não gerado um CSS dinâmico para o customizador e fontes do Google para esta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:645
+msgid "The specified template path containing custom template files for this instance of Redux."
+msgstr "O caminho do template especificado que contém os arquivos de template personalizados para esta instância do Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:650
+msgid "List of template files overriding the default Redux template files."
+msgstr "Lista de arquivos de template que sobrescrevem os arquivos de template padrão Redux."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:676
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr "Indica as extensões Redux instaladas e suas respectivas versões."
+
+#: redux/ReduxCore/inc/welcome/views/support.php:105
+msgid "Please be sure to include for your developer - via cut and paste - the Support URL in the box below."
+msgstr "Certifique-se de incluir para o seu desenvolvedor - via copiar e colar - a URL de suporte na caixa abaixo."
+
+#: redux/ReduxCore/inc/welcome/views/support.php:134
+msgid "Should the developer not be responsive, read the <a href=\"%s\" target=\"_blank\">following article</a> before asking for support from us directly."
+msgstr "Se o desenvolvedor não for responsivo, leia o <a href=\"%s\" target=\"_blank\">seguinte artigo</a> antes de pedir apoio diretamente de nós."
+
+#: redux/ReduxCore/inc/welcome/views/support.php:19
+#: redux/ReduxCore/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr "Gerar uma URL de Suporte"
+
+#: redux/ReduxCore/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr "Redux Framework - Suporte"
+
+#: redux/ReduxCore/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr "Selecione o Tipo de Suporte"
+
+#: redux/ReduxCore/inc/welcome/views/support.php:21
+#: redux/ReduxCore/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr "Como Conseguir Suporte"
+
+#: redux/ReduxCore/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr "Enviar uma requisição de suporte"
+
+#: redux/ReduxCore/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr "Para começar, nós precisaremos gerar um código de suporte."
+
+#: redux/ReduxCore/inc/welcome/views/support.php:101
+msgid "Listed below are the Wordpress plugins and/or theme installed on your site that utilize Redux Framework. We do not directly support products created with our framework.  It is the responsibility of the plugin or theme developer to support their work. You will need to contact the author(s) of the products listed below with your support questions."
+msgstr "Listados abaixo estão os plugins e/ou temas WordPress instalados em seu site que utilizam Redux Framework. Nós não damos suporte diretamente a produtos criados com a nossa estrutura. É da responsabilidade do desenvolvedor do plugin ou tema dar suporte ao seu próprio trabalho. Você vai precisar entrar em contato com o(s) autor(es) do(s) produto(s) listado(s) abaixo com suas questões de suporte."
+
+#: redux/ReduxCore/inc/welcome/views/support.php:35
+msgid "This will provide to your developer all the information they may need to remedy your issue. This action WILL send information securely to a remote server. To see the type of information sent, please look at the  <a href=\"%s\">Status tab</a>."
+msgstr "Isto irá fornecer para o seu desenvolvedor todas as informações que possa necessitar para resolver seu problema. Esta ação IRÁ enviar informações de forma segura para o servidor remoto. Para ver o tipo de informações enviada, por favor, olhe a <a href=\"%s\"> aba status</a>."
+
+#: redux/ReduxCore/inc/welcome/views/support.php:4
+msgid "We are an open source project used by developers to make powerful control panels."
+msgstr "Nós somos um projeto de código aberto usado por desenvolvedores para fazer painéis de controle poderosos."
+
+#: redux/ReduxCore/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr "Selecione seu tipo de suporte"
+
+#: redux/ReduxCore/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr "Que tipo de usuário é você?"
+
+#: redux/ReduxCore/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr "Eu sou um usuário, usando um produto pré-construído."
+
+#: redux/ReduxCore/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr "Eu sou um desenvolvedor, criando um produto usando Redux."
+
+#: redux/ReduxCore/inc/welcome/views/support.php:92
+msgid "Please proceed to the Redux Framework issue tracker and supply us with your support URL below. Please also provide any information that will help us to reproduce your issue."
+msgstr "Siga para o rastreador de problemas do Framework Redux e nos forneça sua URL de suporte abaixo. Forneça também qualquer informação que nos ajude a reproduzir o seu problema."
+
+#: redux/ReduxCore/inc/welcome/welcome.php:181
+msgid "Support hash could not be generated. Please try again later."
+msgstr "Código de suporte não pôde ser gerado. Tente novamente mais tarde."
+
+#: redux/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr "você está trabalhando em um ambiente localhost"
+
+#: redux/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr "Isto foi automaticamente habilitado porque"
+
+#: redux/ReduxCore/templates/panel/header.tpl.php:36
+msgid "If you are not a developer, your theme/plugin author shipped with developer mode enabled. Contact them directly to fix it."
+msgstr "Se você não for um desenvolvedor, o autor do seu tema/plugin será fornecido com o modo de desenvolvedor habilitado. Entre em contato diretamente para corrigi-lo."
+
+#: redux/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr "MODO DE DESENVOLVIMENTO FORÇADO DESLIGADO ATIVO"
+
+#: templates/layout/alert.php:11
+msgid "This theme location is not active. Please go to <a href=\"%1$s\" target=\"_blank\">Configuration</a> tab and activate the <b>%2$s</b> theme location."
+msgstr "Este local do tema não está ativo. Por favor, vá para a aba <a href=\"%1$s\" target=\"_blank\">Configuração</a> e ative a localização do tema <b>%2$s</b>."
+
+#: redux/ReduxCore/core/panel.php:312
+msgid "<strong>Your panel has bundled outdated copies of Redux Framework template files</strong> &#8211; if you encounter functionality issues this could be the reason. Ensure you update or remove them."
+msgstr "<strong>Seu painel tem cópias incorporadas desatualizadas de arquivos de modelo do Redux Framework</strong> &#8211; Se você encontrar problemas de funcionalidade, isso pode ser o motivo. Certifique-se de atualizá-los ou removê-los."
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:220
+msgid "%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr "%s - Recomendamos configurar a memória para pelo menos 40MB. Veja: <a href=\"%s\" target=\"_blank\">Aumentando a memória alocada para o PHP</a>"
+
+#: redux/ReduxCore/inc/welcome/views/status_report.php:737
+msgid "If you're modifying Redux Framework or a parent theme you didn't build personally, we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+msgstr "Se você está modificando o Redux Framework ou um tema ascendente que você não construiu, recomendamos que use um tema descendente. Veja: <a href=\"%s\" target=\"_blank\">Como criar um tema descendente</a>"
+
+#: redux/ReduxCore/inc/welcome/welcome.php:104
+msgid "If you like <strong>Redux</strong> please leave us a <a href=\"https://wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank you from Redux in advance!"
+msgstr "Se você gosta do <strong>Redux</strong> pedimos que nos deixe uma classificação <a href=\"https://wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-rated=\"Obrigado :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a>. Um enorme obrigado antecipadamente da Redux!"
